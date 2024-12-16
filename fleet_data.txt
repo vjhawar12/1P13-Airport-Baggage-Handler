@@ -1,0 +1,7 @@
+Boeing 777-300ER,24,336,360,H-17,Hong Kong,Late,23  
+Boeing 777- 200LR,24,236,260,H-12,New York,On-Time,46 
+Airbus A330-300,24,241,265,D-11,Istanbul,Late,23 
+Embraer A330-300,12,64,76,B-15,London,On-Time,23 
+Airbus A319-100,12,124,136,D-7,Dubai,On-Time,23 
+Boeing 737 MAX 8,16,153,169,E-4,Paris,On-Time,46 
+Airbus A321-200,16,174,190,F-5,Sydney,Late,23

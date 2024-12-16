@@ -1,0 +1,1466 @@
+John,D.,H-17,Hong Kong,E,Late,23.3,Layover
+Emma,W.,H-17,Hong Kong,E,Late,24.6, 
+Michael,B.,H-17,Hong Kong,E,Late,22.3,Layover
+Olivia,S.,H-17,Hong Kong,E,Late,23.6,Layover
+William,T.,H-17,Hong Kong,E,Late,22.8,Layover
+Ava,C.,H-17,Hong Kong,E,Late,22.3,Layover
+James,M.,H-17,Hong Kong,E,Late,23.8, 
+Benjamin,R.,H-17,Hong Kong,E,Late,23.6, 
+Mia,K.,H-17,Hong Kong,E,Late,23, 
+Lucas,L.,H-17,Hong Kong,E,Late,24.4,Layover
+Amelia,N.,H-17,Hong Kong,E,Late,23.9, 
+Henry,H.,H-17,Hong Kong,E,Late,24,Layover
+Charlotte,V.,H-17,Hong Kong,E,Late,23.5,Layover
+Alexander,J.,H-17,Hong Kong,E,Late,23.3,Layover
+Isabella,P.,H-17,Hong Kong,E,Late,24.3,Layover
+Liam,F.,H-17,Hong Kong,E,Late,22.5, 
+Emily,E.,H-17,Hong Kong,E,Late,24.6, 
+Noah,A.,H-17,Hong Kong,E,Late,22.9, 
+Harper,I.,H-17,Hong Kong,E,Late,24.6, 
+Elijah,O.,H-17,Hong Kong,E,Late,23.5,Layover
+Evelyn,U.,H-17,Hong Kong,E,Late,22.2, 
+Logan,Q.,H-17,Hong Kong,E,Late,24.2,Layover
+Abigail,Z.,H-17,Hong Kong,E,Late,24.2, 
+Mason,X.,H-17,Hong Kong,E,Late,24.2, 
+Lily,D.,H-17,Hong Kong,E,Late,23.2,Layover
+Sebastian,K.,H-17,Hong Kong,E,Late,24.3, 
+Aria,M.,H-17,Hong Kong,E,Late,22.1, 
+Ethan,G.,H-17,Hong Kong,E,Late,22.7,Layover
+Ella,N.,H-17,Hong Kong,E,Late,22.5, 
+Daniel,R.,H-17,Hong Kong,E,Late,24.3,Layover
+Grace,S.,H-17,Hong Kong,E,Late,24.3, 
+Jacob,L.,H-17,Hong Kong,E,Late,24.2,Layover
+Zoe,B.,H-17,Hong Kong,E,Late,23.6,Layover
+Jackson,T.,H-17,Hong Kong,E,Late,24.8,Layover
+Hannah,V.,H-17,Hong Kong,E,Late,22.4, 
+Levi,F.,H-17,Hong Kong,E,Late,24.5,Layover
+Scarlett,H.,H-17,Hong Kong,E,Late,24.8, 
+Samuel,C.,H-17,Hong Kong,E,Late,24,Layover
+Victoria,W.,H-17,Hong Kong,E,Late,24.1,Layover
+Owen,Y.,H-17,Hong Kong,E,Late,24,Layover
+Madison,P.,H-17,Hong Kong,E,Late,24, 
+Gabriel,J.,H-17,Hong Kong,E,Late,23.5,Layover
+Layla,A.,H-17,Hong Kong,E,Late,23.4, 
+Matthew,X.,H-17,Hong Kong,E,Late,23.8, 
+Nora,O.,H-17,Hong Kong,E,Late,24.6, 
+Aiden,E.,H-17,Hong Kong,E,Late,23.2,Layover
+Riley,Q.,H-17,Hong Kong,E,Late,23.3,Layover
+Joseph,U.,H-17,Hong Kong,E,Late,24.5,Layover
+Leah,Z.,H-17,Hong Kong,E,Late,23,Layover
+David,K.,H-17,Hong Kong,E,Late,24.4,Layover
+Chloe,D.,H-17,Hong Kong,E,Late,22.5,Layover
+Andrew,M.,H-17,Hong Kong,E,Late,24.7, 
+Hazel,B.,H-17,Hong Kong,E,Late,24.1,Layover
+Wyatt,N.,H-17,Hong Kong,E,Late,24.4, 
+Luna,S.,H-17,Hong Kong,E,Late,24.5,Layover
+Isaac,T.,H-17,Hong Kong,E,Late,22.7,Layover
+Ellie,W.,H-17,Hong Kong,E,Late,24.2, 
+Nathaniel,V.,H-17,Hong Kong,E,Late,23.2,Layover
+Penelope,L.,H-17,Hong Kong,E,Late,23.1,Layover
+Dylan,H.,H-17,Hong Kong,E,Late,24.3, 
+Mila,F.,H-17,Hong Kong,E,Late,22.8, 
+Caleb,R.,H-17,Hong Kong,E,Late,24.7,Layover
+Lucy,C.,H-17,Hong Kong,E,Late,24.4, 
+Ryan,I.,H-17,Hong Kong,E,Late,22.5, 
+Stella,J.,H-17,Hong Kong,E,Late,22.6,Layover
+Asher,Q.,H-17,Hong Kong,E,Late,24.6,Layover
+Maya,P.,H-17,Hong Kong,E,Late,22.3, 
+Christopher,O.,H-17,Hong Kong,E,Late,23.3, 
+Savannah,A.,H-17,Hong Kong,E,Late,23.6, 
+Julian,E.,H-17,Hong Kong,E,Late,23.9, 
+Aurora,Z.,H-17,Hong Kong,E,Late,23.6, 
+Landon,K.,H-17,Hong Kong,E,Late,24.6, 
+Bella,T.,H-17,Hong Kong,E,Late,22.7, 
+Nicholas,D.,H-17,Hong Kong,E,Late,22.3, 
+Addison,M.,H-17,Hong Kong,E,Late,22.2, 
+Christian,G.,H-17,Hong Kong,E,Late,22.3, 
+Willow,F.,H-17,Hong Kong,E,Late,23, 
+Hunter,N.,H-17,Hong Kong,E,Late,23.1, 
+Autumn,R.,H-17,Hong Kong,E,Late,22.1,Layover
+Anthony,S.,H-17,Hong Kong,E,Late,24, 
+Violet,X.,H-17,Hong Kong,E,Late,23.9, 
+Thomas,L.,H-17,Hong Kong,E,Late,23.9,Layover
+Paisley,B.,H-17,Hong Kong,E,Late,22.5,Layover
+Joshua,V.,H-17,Hong Kong,E,Late,23.2,Layover
+Audrey,H.,H-17,Hong Kong,E,Late,24.9,Layover
+Aaron,C.,H-17,Hong Kong,E,Late,24.4,Layover
+Elliana,W.,H-17,Hong Kong,E,Late,24.7,Layover
+Connor,I.,H-17,Hong Kong,E,Late,24.7,Layover
+Naomi,P.,H-17,Hong Kong,E,Late,23.9,Layover
+Isaiah,O.,H-17,Hong Kong,E,Late,24.2,Layover
+Rylee,A.,H-17,Hong Kong,E,Late,22.9,Layover
+Brandon,E.,H-17,Hong Kong,E,Late,23.9, 
+Hazel,Q.,H-17,Hong Kong,E,Late,22.8, 
+Jaxon,U.,H-17,Hong Kong,E,Late,22.1,Layover
+Serenity,Z.,H-17,Hong Kong,E,Late,22.1, 
+Eli,K.,H-17,Hong Kong,E,Late,24.6, 
+Skylar,T.,H-17,Hong Kong,E,Late,23.8,Layover
+Angel,D.,H-17,Hong Kong,E,Late,22,Layover
+Aubrey,M.,H-17,Hong Kong,E,Late,24,Layover
+Carter,G.,H-17,Hong Kong,E,Late,24.1, 
+Kennedy,F.,H-17,Hong Kong,E,Late,23.9, 
+Colton,N.,H-17,Hong Kong,E,Late,22.8,Layover
+Madeline,R.,H-17,Hong Kong,E,Late,22, 
+Roman,S.,H-17,Hong Kong,E,Late,24.7,Layover
+Aaliyah,X.,H-17,Hong Kong,E,Late,23.4, 
+Dominic,L.,H-17,Hong Kong,E,Late,24.6, 
+Kinsley,B.,H-17,Hong Kong,E,Late,22.9,Layover
+Ian,V.,H-17,Hong Kong,E,Late,23.4, 
+Camila,H.,H-17,Hong Kong,E,Late,24.4,Layover
+Adrian,C.,H-17,Hong Kong,E,Late,22,Layover
+Everly,W.,H-17,Hong Kong,E,Late,22.4,Layover
+Nathan,I.,H-17,Hong Kong,E,Late,23.2, 
+Kevin,O.,H-17,Hong Kong,E,Late,23.1,Layover
+Ruby,A.,H-17,Hong Kong,E,Late,22, 
+Adam,E.,H-17,Hong Kong,E,Late,22.2,Layover
+Samantha,Z.,H-17,Hong Kong,E,Late,24.5, 
+Jonah,K.,H-17,Hong Kong,E,Late,23.9,Layover
+Mackenzie,T.,H-17,Hong Kong,E,Late,23.5,Layover
+Zachary,D.,H-17,Hong Kong,E,Late,22.4, 
+Peyton,M.,H-17,Hong Kong,E,Late,23.1,Layover
+Josiah,G.,H-17,Hong Kong,E,Late,24.3,Layover
+Laila,F.,H-17,Hong Kong,E,Late,24.2, 
+Kevin,N.,H-17,Hong Kong,E,Late,24.1,Layover
+Brooklyn,R.,H-17,Hong Kong,E,Late,24,Layover
+Luis,S.,H-17,Hong Kong,E,Late,23.8, 
+Melanie,X.,H-17,Hong Kong,E,Late,23.8, 
+Brian,L.,H-17,Hong Kong,E,Late,24,Layover
+Ariana,B.,H-17,Hong Kong,E,Late,24.3,Layover
+Angel,V.,H-17,Hong Kong,E,Late,23.2,Layover
+Lydia,H.,H-17,Hong Kong,E,Late,22.8, 
+Gavin,C.,H-17,Hong Kong,E,Late,24.2, 
+Reagan,W.,H-17,Hong Kong,E,Late,24.1, 
+Blake,I.,H-17,Hong Kong,E,Late,22.5, 
+Ivy,P.,H-17,Hong Kong,E,Late,24.2,Layover
+Carlos,O.,H-17,Hong Kong,E,Late,22.3, 
+Delilah,A.,H-17,Hong Kong,E,Late,22.9, 
+Diego,E.,H-17,Hong Kong,E,Late,24.1,Layover
+Faith,Z.,H-17,Hong Kong,E,Late,23.8,Layover
+Jeremiah,K.,H-17,Hong Kong,E,Late,24.4, 
+Jade,T.,H-17,Hong Kong,E,Late,22, 
+Austin,D.,H-17,Hong Kong,E,Late,23.6, 
+Mariah,M.,H-17,Hong Kong,E,Late,24.7,Layover
+Cole,G.,H-17,Hong Kong,E,Late,22.9,Layover
+Aubree,F.,H-17,Hong Kong,E,Late,22.1, 
+Brody,N.,H-17,Hong Kong,E,Late,23.4,Layover
+Trinity,R.,H-17,Hong Kong,E,Late,24.8, 
+Eric,S.,H-17,Hong Kong,E,Late,24.6, 
+Brianna,X.,H-17,Hong Kong,E,Late,22.7,Layover
+Silas,L.,H-17,Hong Kong,E,Late,23.3, 
+Jasmine,B.,H-17,Hong Kong,E,Late,24, 
+Steven,V.,H-17,Hong Kong,E,Late,24.3,Layover
+Juliette,H.,H-17,Hong Kong,E,Late,24.1, 
+Ezekiel,C.,H-17,Hong Kong,E,Late,23.9,Layover
+Amara,W.,H-17,Hong Kong,E,Late,24.9, 
+Vincent,I.,H-17,Hong Kong,E,Late,22.6,Layover
+Elise,P.,H-17,Hong Kong,E,Late,22.4, 
+Parker,O.,H-17,Hong Kong,E,Late,24.7,Layover
+Vivian,A.,H-17,Hong Kong,E,Late,22.3,Layover
+Paul,E.,H-17,Hong Kong,E,Late,24.3,Layover
+Leilani,Z.,H-17,Hong Kong,E,Late,23.4, 
+Nolan,K.,H-17,Hong Kong,E,Late,22.9, 
+Rose,T.,H-17,Hong Kong,E,Late,24.8, 
+Damian,D.,H-17,Hong Kong,E,Late,22.5, 
+Sienna,M.,H-17,Hong Kong,E,Late,22.8,Layover
+Tanner,G.,H-17,Hong Kong,E,Late,22.5, 
+Gabriella,F.,H-17,Hong Kong,E,Late,24.4,Layover
+Spencer,N.,H-17,Hong Kong,E,Late,24.2,Layover
+Raelynn,R.,H-17,Hong Kong,E,Late,23.2, 
+Jace,S.,H-17,Hong Kong,E,Late,23.7, 
+Valentina,X.,H-17,Hong Kong,E,Late,23.3,Layover
+Lorenzo,L.,H-17,Hong Kong,E,Late,22.4,Layover
+Mikayla,B.,H-17,Hong Kong,E,Late,22.3,Layover
+Tyler,V.,H-17,Hong Kong,E,Late,24.8,Layover
+Rosalie,H.,H-17,Hong Kong,E,Late,24.4, 
+Bryson,C.,H-17,Hong Kong,E,Late,23.9,Layover
+Maliyah,W.,H-17,Hong Kong,E,Late,24.6, 
+Tristan,I.,H-17,Hong Kong,E,Late,23.3, 
+Lola,P.,H-17,Hong Kong,E,Late,22.7,Layover
+Evan,O.,H-17,Hong Kong,E,Late,24.7, 
+Adeline,A.,H-17,Hong Kong,E,Late,22.2,Layover
+Mark,E.,H-17,Hong Kong,E,Late,23,Layover
+Alyssa,Z.,H-17,Hong Kong,E,Late,24.1, 
+Graham,K.,H-17,Hong Kong,E,Late,22.3,Layover
+Catalina,T.,H-17,Hong Kong,E,Late,24.3, 
+Kenneth,D.,H-17,Hong Kong,E,Late,23.2, 
+Kayla,M.,H-17,Hong Kong,E,Late,24.4,Layover
+Timothy,G.,H-17,Hong Kong,E,Late,24.7, 
+Alaina,F.,H-17,Hong Kong,E,Late,22.9,Layover
+Gregory,N.,H-17,Hong Kong,E,Late,22.8, 
+Alana,R.,H-17,Hong Kong,E,Late,24.8,Layover
+Troy,S.,H-17,Hong Kong,E,Late,24.5,Layover
+Sasha,X.,H-17,Hong Kong,E,Late,22.3,Layover
+Derek,L.,H-17,Hong Kong,E,Late,22.2, 
+Holly,B.,H-17,Hong Kong,E,Late,23.6,Layover
+Calvin,V.,H-17,Hong Kong,E,Late,23.4,Layover
+Anaya,H.,H-17,Hong Kong,E,Late,23.4,Layover
+Gage,C.,H-17,Hong Kong,E,Late,23.9,Layover
+Aleena,W.,H-17,Hong Kong,E,Late,24.1,Layover
+Leon,I.,H-17,Hong Kong,E,Late,23.3, 
+Eliza,P.,H-17,Hong Kong,E,Late,24, 
+Reid,O.,H-17,Hong Kong,E,Late,22.4,Layover
+Georgia,A.,H-17,Hong Kong,E,Late,24.2,Layover
+Bradley,E.,H-17,Hong Kong,E,Late,23.4, 
+Athena,Z.,H-17,Hong Kong,E,Late,24.4, 
+Maxwell,K.,H-17,Hong Kong,E,Late,24.8,Layover
+Phoebe,T.,H-17,Hong Kong,E,Late,24.3,Layover
+Axel,D.,H-17,Hong Kong,E,Late,22.4,Layover
+Jocelyn,M.,H-17,Hong Kong,E,Late,24.3,Layover
+Miguel,G.,H-17,Hong Kong,E,Late,24.8,Layover
+Talia,F.,H-17,Hong Kong,E,Late,24.2,Layover
+Oscar,N.,H-17,Hong Kong,E,Late,23.2, 
+Makayla,R.,H-17,Hong Kong,E,Late,24.8,Layover
+Jayden,S.,H-17,Hong Kong,E,Late,22.5,Layover
+Emerson,X.,H-17,Hong Kong,E,Late,24.4, 
+Peter,L.,H-17,Hong Kong,E,Late,24.7,Layover
+Mallory,B.,H-17,Hong Kong,E,Late,22.9, 
+Matteo,V.,H-17,Hong Kong,E,Late,22.1,Layover
+Harmony,H.,H-17,Hong Kong,E,Late,23, 
+Max,C.,H-17,Hong Kong,E,Late,22.2, 
+Lilah,W.,H-17,Hong Kong,E,Late,23.4, 
+Hayden,I.,H-17,Hong Kong,E,Late,22.1,Layover
+Carmen,P.,H-17,Hong Kong,E,Late,22.8,Layover
+Finn,O.,H-17,Hong Kong,E,Late,22.9, 
+Esme,A.,H-17,Hong Kong,E,Late,24.6,Layover
+Jayce,E.,H-17,Hong Kong,E,Late,24.5,Layover
+Elsie,Z.,H-17,Hong Kong,E,Late,24.1,Layover
+Kyle,K.,H-17,Hong Kong,E,Late,22, 
+Hallie,T.,H-17,Hong Kong,E,Late,23.7,Layover
+Justin,D.,H-17,Hong Kong,E,Late,24.1,Layover
+Alison,M.,H-17,Hong Kong,E,Late,22.7,Layover
+Marcus,G.,H-17,Hong Kong,E,Late,23.1, 
+Eloise,F.,H-17,Hong Kong,E,Late,24.3,Layover
+Rhett,N.,H-17,Hong Kong,E,Late,24.5,Layover
+Maddison,R.,H-17,Hong Kong,E,Late,23.8,Layover
+Victor,S.,H-17,Hong Kong,E,Late,22.6,Layover
+Adalyn,X.,H-17,Hong Kong,E,Late,23.3,Layover
+George,L.,H-17,Hong Kong,E,Late,23.3, 
+Emery,B.,H-17,Hong Kong,E,Late,22.9, 
+Bennett,V.,H-17,Hong Kong,E,Late,24.6,Layover
+Anastasia,H.,H-17,Hong Kong,E,Late,23.2,Layover
+Clark,C.,H-17,Hong Kong,E,Late,24, 
+Annabelle,W.,H-17,Hong Kong,E,Late,24.5,Layover
+Jasper,I.,H-17,Hong Kong,E,Late,24.4,Layover
+Daniella,P.,H-17,Hong Kong,E,Late,24.8,Layover
+Wesley,O.,H-17,Hong Kong,E,Late,24.2, 
+Hanna,A.,H-17,Hong Kong,E,Late,22.4,Layover
+Chase,E.,H-17,Hong Kong,E,Late,24.8, 
+Liana,Z.,H-17,Hong Kong,E,Late,22.8,Layover
+Emmett,K.,H-17,Hong Kong,E,Late,22.7, 
+Miriam,T.,H-17,Hong Kong,E,Late,23.7, 
+Shane,D.,H-17,Hong Kong,E,Late,23.3,Layover
+Ainsley,M.,H-17,Hong Kong,E,Late,22.7,Layover
+Jared,G.,H-17,Hong Kong,E,Late,23.2, 
+Madilyn,F.,H-17,Hong Kong,E,Late,22.1, 
+Brayden,N.,H-17,Hong Kong,E,Late,23.1, 
+Maeve,R.,H-17,Hong Kong,E,Late,22.2,Layover
+Dawson,S.,H-17,Hong Kong,E,Late,23,Layover
+Kendall,X.,H-17,Hong Kong,E,Late,22.7,Layover
+Edwin,L.,H-17,Hong Kong,E,Late,24.4, 
+Paloma,B.,H-17,Hong Kong,E,Late,24.7,Layover
+Ryder,V.,H-17,Hong Kong,E,Late,22.3,Layover
+June,H.,H-17,Hong Kong,E,Late,23.2, 
+Lawrence,C.,H-17,Hong Kong,E,Late,23, 
+Raegan,W.,H-17,Hong Kong,E,Late,24.7, 
+Hugo,I.,H-17,Hong Kong,E,Late,22.7, 
+Allie,P.,H-17,Hong Kong,E,Late,22, 
+Joel,O.,H-17,Hong Kong,E,Late,23.7, 
+Amira,A.,H-17,Hong Kong,E,Late,22.4, 
+Patrick,E.,H-17,Hong Kong,E,Late,22.9,Layover
+Bianca,Z.,H-17,Hong Kong,E,Late,22.1, 
+Dean,K.,H-17,Hong Kong,E,Late,24.7,Layover
+Kiera,T.,H-17,Hong Kong,E,Late,23.1, 
+Simon,D.,H-17,Hong Kong,E,Late,23.2,Layover
+Lorelei,M.,H-17,Hong Kong,E,Late,24.6,Layover
+Richard,G.,H-17,Hong Kong,E,Late,22.4, 
+Adriana,F.,H-17,Hong Kong,E,Late,23.8,Layover
+Anderson,N.,H-17,Hong Kong,E,Late,24.8,Layover
+Brynn,R.,H-17,Hong Kong,E,Late,23.3,Layover
+Maverick,S.,H-17,Hong Kong,E,Late,23, 
+Lena,X.,H-17,Hong Kong,E,Late,22.9, 
+Cade,L.,H-17,Hong Kong,E,Late,22.5, 
+Rory,B.,H-17,Hong Kong,E,Late,22.2,Layover
+Cyrus,V.,H-17,Hong Kong,E,Late,23.5,Layover
+Colette,H.,H-17,Hong Kong,E,Late,24.3, 
+Declan,C.,H-17,Hong Kong,E,Late,23.8,Layover
+Janelle,W.,H-17,Hong Kong,E,Late,22.4, 
+Brandon,I.,H-17,Hong Kong,E,Late,24.4, 
+Tiffany,P.,H-17,Hong Kong,E,Late,23.2, 
+Felix,O.,H-17,Hong Kong,E,Late,24.6, 
+Malia,A.,H-17,Hong Kong,E,Late,23.4,Layover
+Elliot,E.,H-17,Hong Kong,E,Late,24.6, 
+Natasha,Z.,H-17,Hong Kong,E,Late,22.6, 
+Dante,K.,H-17,Hong Kong,E,Late,22.1,Layover
+Josie,T.,H-17,Hong Kong,E,Late,22.8, 
+Titus,D.,H-17,Hong Kong,E,Late,23.8, 
+Veronica,M.,H-17,Hong Kong,E,Late,22.6,Layover
+Mitchell,G.,H-17,Hong Kong,E,Late,23.3,Layover
+Nina,F.,H-17,Hong Kong,E,Late,23.6, 
+Cruz,N.,H-17,Hong Kong,E,Late,24.3,Layover
+Helena,R.,H-17,Hong Kong,E,Late,23.1, 
+Reed,S.,H-17,Hong Kong,E,Late,22.1,Layover
+Adelaide,X.,H-17,Hong Kong,E,Late,22.8,Layover
+Julius,L.,H-17,Hong Kong,E,Late,22.4,Layover
+Daphne,B.,H-17,Hong Kong,E,Late,24.3,Layover
+Otto,V.,H-17,Hong Kong,E,Late,23.9, 
+Gloria,H.,H-17,Hong Kong,E,Late,22.4,Layover
+Quinn,C.,H-17,Hong Kong,E,Late,24.8, 
+Cassandra,W.,H-17,Hong Kong,E,Late,22.4,Layover
+Reese,I.,H-17,Hong Kong,E,Late,22.8,Layover
+Iris,P.,H-17,Hong Kong,E,Late,23.2,Layover
+Quincy,O.,H-17,Hong Kong,E,Late,24.5, 
+Tessa,A.,H-17,Hong Kong,E,Late,22.4, 
+Clinton,E.,H-17,Hong Kong,E,Late,24, 
+Maddie,Z.,H-17,Hong Kong,E,Late,23,Layover
+Ellis,K.,H-17,Hong Kong,E,Late,23.6,Layover
+Lara,T.,H-17,Hong Kong,E,Late,23.4, 
+Harlan,D.,H-17,Hong Kong,E,Late,24.7, 
+Blythe,M.,H-17,Hong Kong,E,Late,22.1, 
+Sterling,G.,H-17,Hong Kong,E,Late,23,Layover
+Juno,F.,H-17,Hong Kong,E,Late,24.4, 
+Alfred,N.,H-17,Hong Kong,E,Late,24.3,Layover
+Tatiana,R.,H-17,Hong Kong,E,Late,24.7,Layover
+Colin,S.,H-17,Hong Kong,E,Late,24.2, 
+Paige,X.,H-17,Hong Kong,E,Late,24.6, 
+Everett,L.,H-17,Hong Kong,E,Late,24.2, 
+Fiona,B.,H-17,Hong Kong,E,Late,22, 
+Reagan,V.,H-17,Hong Kong,E,Late,22.4,Layover
+Lena,H.,H-17,Hong Kong,E,Late,23.5, 
+Harley,C.,H-17,Hong Kong,E,Late,22.8, 
+Celeste,W.,H-17,Hong Kong,E,Late,22.8,Layover
+Walker,I.,H-17,Hong Kong,E,Late,22.4,Layover
+Isis,P.,H-17,Hong Kong,E,Late,22.3, 
+Kendrick,O.,H-17,Hong Kong,E,Late,24.4, 
+Ariel,A.,H-17,Hong Kong,E,Late,24.4,Layover
+Bryce,E.,H-17,Hong Kong,E,Late,23.9,Layover
+Selena,Z.,H-17,Hong Kong,E,Late,23.3, 
+Tate,K.,H-17,Hong Kong,E,Late,22.7, 
+Skye,T.,H-17,Hong Kong,E,Late,23.6,Layover
+Albert,D.,H-17,Hong Kong,E,Late,23.1,Layover
+Marina,M.,H-17,Hong Kong,E,Late,22.6, 
+Gideon,G.,H-17,Hong Kong,B,Late,23.4,Layover
+Alaya,F.,H-17,Hong Kong,B,Late,22.5, 
+Samson,N.,H-17,Hong Kong,B,Late,24.3,Layover
+Anya,R.,H-17,Hong Kong,B,Late,23.1,Layover
+Malcolm,S.,H-17,Hong Kong,B,Late,24.7, 
+Camille,X.,H-17,Hong Kong,B,Late,23.8, 
+Lachlan,L.,H-17,Hong Kong,B,Late,24.1,Layover
+Frances,B.,H-17,Hong Kong,B,Late,24.5,Layover
+Griffin,V.,H-17,Hong Kong,B,Late,24.4, 
+Emmeline,H.,H-17,Hong Kong,B,Late,23.5, 
+Forrest,C.,H-17,Hong Kong,B,Late,22.8, 
+Ivy,W.,H-17,Hong Kong,B,Late,22.9,Layover
+Luca,I.,H-17,Hong Kong,B,Late,22,Layover
+Demi,P.,H-17,Hong Kong,B,Late,24.5, 
+Otis,O.,H-17,Hong Kong,B,Late,22.3, 
+Melody,A.,H-17,Hong Kong,B,Late,22.3,Layover
+Shepherd,E.,H-17,Hong Kong,B,Late,24.8,Layover
+Jade,Z.,H-17,Hong Kong,B,Late,22.4,Layover
+Ronan,K.,H-17,Hong Kong,B,Late,24.2, 
+Lilian,T.,H-17,Hong Kong,B,Late,23.2,Layover
+Zane,D.,H-17,Hong Kong,B,Late,23,Layover
+Amelie,M.,H-17,Hong Kong,B,Late,23.4, 
+Emery,G.,H-17,Hong Kong,B,Late,24.6, 
+Thalia,F.,H-17,Hong Kong,B,Late,24.2,Layover
+John,D.,H-12,New York,E,On-Time,45.5, 
+Emma,W.,H-12,New York,E,On-Time,45.1,Layover
+Michael,B.,H-12,New York,E,On-Time,47.4,Layover
+Olivia,S.,H-12,New York,E,On-Time,43.4, 
+William,T.,H-12,New York,E,On-Time,45.2, 
+Ava,C.,H-12,New York,E,On-Time,44.6,Layover
+James,M.,H-12,New York,E,On-Time,44,Layover
+Benjamin,R.,H-12,New York,E,On-Time,43.4,Layover
+Mia,K.,H-12,New York,E,On-Time,44.4,Layover
+Lucas,L.,H-12,New York,E,On-Time,47.5, 
+Amelia,N.,H-12,New York,E,On-Time,43.8, 
+Henry,H.,H-12,New York,E,On-Time,43.1, 
+Charlotte,V.,H-12,New York,E,On-Time,43.9,Layover
+Alexander,J.,H-12,New York,E,On-Time,45.5, 
+Isabella,P.,H-12,New York,E,On-Time,46.9,Layover
+Liam,F.,H-12,New York,E,On-Time,44.2,Layover
+Emily,E.,H-12,New York,E,On-Time,45.6,Layover
+Noah,A.,H-12,New York,E,On-Time,44.4, 
+Harper,I.,H-12,New York,E,On-Time,47.2,Layover
+Elijah,O.,H-12,New York,E,On-Time,44.9, 
+Evelyn,U.,H-12,New York,E,On-Time,43.2,Layover
+Logan,Q.,H-12,New York,E,On-Time,46.8, 
+Abigail,Z.,H-12,New York,E,On-Time,47.8,Layover
+Mason,X.,H-12,New York,E,On-Time,46.2, 
+Lily,D.,H-12,New York,E,On-Time,46.1, 
+Sebastian,K.,H-12,New York,E,On-Time,47.2,Layover
+Aria,M.,H-12,New York,E,On-Time,45.2,Layover
+Ethan,G.,H-12,New York,E,On-Time,45.2,Layover
+Ella,N.,H-12,New York,E,On-Time,47.6,Layover
+Daniel,R.,H-12,New York,E,On-Time,46.1, 
+Grace,S.,H-12,New York,E,On-Time,45.9,Layover
+Jacob,L.,H-12,New York,E,On-Time,43.4,Layover
+Zoe,B.,H-12,New York,E,On-Time,47.5, 
+Jackson,T.,H-12,New York,E,On-Time,44.3, 
+Hannah,V.,H-12,New York,E,On-Time,44.6,Layover
+Levi,F.,H-12,New York,E,On-Time,45.6,Layover
+Scarlett,H.,H-12,New York,E,On-Time,45.7, 
+Samuel,C.,H-12,New York,E,On-Time,44.3,Layover
+Victoria,W.,H-12,New York,E,On-Time,47.5,Layover
+Owen,Y.,H-12,New York,E,On-Time,47.8,Layover
+Madison,P.,H-12,New York,E,On-Time,43.2,Layover
+Gabriel,J.,H-12,New York,E,On-Time,47.2, 
+Layla,A.,H-12,New York,E,On-Time,43.2,Layover
+Matthew,X.,H-12,New York,E,On-Time,44.2, 
+Nora,O.,H-12,New York,E,On-Time,45.9, 
+Aiden,E.,H-12,New York,E,On-Time,44.5, 
+Riley,Q.,H-12,New York,E,On-Time,46.9, 
+Joseph,U.,H-12,New York,E,On-Time,45.1,Layover
+Leah,Z.,H-12,New York,E,On-Time,43, 
+David,K.,H-12,New York,E,On-Time,43.5, 
+Chloe,D.,H-12,New York,E,On-Time,44.7, 
+Andrew,M.,H-12,New York,E,On-Time,47.1,Layover
+Hazel,B.,H-12,New York,E,On-Time,47.1,Layover
+Wyatt,N.,H-12,New York,E,On-Time,44.6, 
+Luna,S.,H-12,New York,E,On-Time,44.6, 
+Isaac,T.,H-12,New York,E,On-Time,47, 
+Ellie,W.,H-12,New York,E,On-Time,45.6, 
+Nathaniel,V.,H-12,New York,E,On-Time,47.8,Layover
+Penelope,L.,H-12,New York,E,On-Time,47.7, 
+Dylan,H.,H-12,New York,E,On-Time,44, 
+Mila,F.,H-12,New York,E,On-Time,46.9,Layover
+Caleb,R.,H-12,New York,E,On-Time,45.1, 
+Lucy,C.,H-12,New York,E,On-Time,46.4,Layover
+Ryan,I.,H-12,New York,E,On-Time,45.6, 
+Stella,J.,H-12,New York,E,On-Time,43.8,Layover
+Asher,Q.,H-12,New York,E,On-Time,47.1, 
+Maya,P.,H-12,New York,E,On-Time,46,Layover
+Christopher,O.,H-12,New York,E,On-Time,45.7, 
+Savannah,A.,H-12,New York,E,On-Time,45.2, 
+Julian,E.,H-12,New York,E,On-Time,45.4,Layover
+Aurora,Z.,H-12,New York,E,On-Time,47.7, 
+Landon,K.,H-12,New York,E,On-Time,45.1,Layover
+Bella,T.,H-12,New York,E,On-Time,45.7, 
+Nicholas,D.,H-12,New York,E,On-Time,47.5,Layover
+Addison,M.,H-12,New York,E,On-Time,45.2, 
+Christian,G.,H-12,New York,E,On-Time,45.3, 
+Willow,F.,H-12,New York,E,On-Time,47.1,Layover
+Hunter,N.,H-12,New York,E,On-Time,43.7, 
+Autumn,R.,H-12,New York,E,On-Time,47.5,Layover
+Anthony,S.,H-12,New York,E,On-Time,46.4, 
+Violet,X.,H-12,New York,E,On-Time,45.5, 
+Thomas,L.,H-12,New York,E,On-Time,46.4, 
+Paisley,B.,H-12,New York,E,On-Time,47.9,Layover
+Joshua,V.,H-12,New York,E,On-Time,44, 
+Audrey,H.,H-12,New York,E,On-Time,46.1, 
+Aaron,C.,H-12,New York,E,On-Time,46, 
+Elliana,W.,H-12,New York,E,On-Time,46.4, 
+Connor,I.,H-12,New York,E,On-Time,43.9,Layover
+Naomi,P.,H-12,New York,E,On-Time,46.7,Layover
+Isaiah,O.,H-12,New York,E,On-Time,47.8,Layover
+Rylee,A.,H-12,New York,E,On-Time,43.1, 
+Brandon,E.,H-12,New York,E,On-Time,47.5,Layover
+Hazel,Q.,H-12,New York,E,On-Time,45.9,Layover
+Jaxon,U.,H-12,New York,E,On-Time,46.6, 
+Serenity,Z.,H-12,New York,E,On-Time,43.2, 
+Eli,K.,H-12,New York,E,On-Time,45.9, 
+Skylar,T.,H-12,New York,E,On-Time,46.9,Layover
+Angel,D.,H-12,New York,E,On-Time,45.2, 
+Aubrey,M.,H-12,New York,E,On-Time,45.7,Layover
+Carter,G.,H-12,New York,E,On-Time,44.7,Layover
+Kennedy,F.,H-12,New York,E,On-Time,45.3,Layover
+Colton,N.,H-12,New York,E,On-Time,43.2,Layover
+Madeline,R.,H-12,New York,E,On-Time,45.1, 
+Roman,S.,H-12,New York,E,On-Time,45.1,Layover
+Aaliyah,X.,H-12,New York,E,On-Time,44.9, 
+Dominic,L.,H-12,New York,E,On-Time,44.4,Layover
+Kinsley,B.,H-12,New York,E,On-Time,43.7,Layover
+Ian,V.,H-12,New York,E,On-Time,43.5, 
+Camila,H.,H-12,New York,E,On-Time,43.5, 
+Adrian,C.,H-12,New York,E,On-Time,43.6,Layover
+Everly,W.,H-12,New York,E,On-Time,45,Layover
+Nathan,I.,H-12,New York,E,On-Time,46.2, 
+Kevin,O.,H-12,New York,E,On-Time,43.5,Layover
+Ruby,A.,H-12,New York,E,On-Time,47.7,Layover
+Adam,E.,H-12,New York,E,On-Time,45.2,Layover
+Samantha,Z.,H-12,New York,E,On-Time,45.1,Layover
+Jonah,K.,H-12,New York,E,On-Time,47,Layover
+Mackenzie,T.,H-12,New York,E,On-Time,43.4, 
+Zachary,D.,H-12,New York,E,On-Time,43.8,Layover
+Peyton,M.,H-12,New York,E,On-Time,46.8,Layover
+Josiah,G.,H-12,New York,E,On-Time,44.4,Layover
+Laila,F.,H-12,New York,E,On-Time,44.7,Layover
+Kevin,N.,H-12,New York,E,On-Time,47.8,Layover
+Brooklyn,R.,H-12,New York,E,On-Time,46, 
+Luis,S.,H-12,New York,E,On-Time,47.2, 
+Melanie,X.,H-12,New York,E,On-Time,46.2,Layover
+Brian,L.,H-12,New York,E,On-Time,44.5,Layover
+Ariana,B.,H-12,New York,E,On-Time,44.3,Layover
+Angel,V.,H-12,New York,E,On-Time,47.7, 
+Lydia,H.,H-12,New York,E,On-Time,46.4,Layover
+Gavin,C.,H-12,New York,E,On-Time,46.6, 
+Reagan,W.,H-12,New York,E,On-Time,43.2, 
+Blake,I.,H-12,New York,E,On-Time,44.1, 
+Ivy,P.,H-12,New York,E,On-Time,44.2,Layover
+Carlos,O.,H-12,New York,E,On-Time,43.9, 
+Delilah,A.,H-12,New York,E,On-Time,47.4, 
+Diego,E.,H-12,New York,E,On-Time,44.8, 
+Faith,Z.,H-12,New York,E,On-Time,43.5,Layover
+Jeremiah,K.,H-12,New York,E,On-Time,46.4, 
+Jade,T.,H-12,New York,E,On-Time,45.7, 
+Austin,D.,H-12,New York,E,On-Time,46.4,Layover
+Mariah,M.,H-12,New York,E,On-Time,43.6, 
+Cole,G.,H-12,New York,E,On-Time,46.8,Layover
+Aubree,F.,H-12,New York,E,On-Time,43.8,Layover
+Brody,N.,H-12,New York,E,On-Time,43.5,Layover
+Trinity,R.,H-12,New York,E,On-Time,46.9,Layover
+Eric,S.,H-12,New York,E,On-Time,43.9, 
+Brianna,X.,H-12,New York,E,On-Time,46.7,Layover
+Silas,L.,H-12,New York,E,On-Time,44.6,Layover
+Jasmine,B.,H-12,New York,E,On-Time,43.1,Layover
+Steven,V.,H-12,New York,E,On-Time,47.7, 
+Juliette,H.,H-12,New York,E,On-Time,46.8,Layover
+Ezekiel,C.,H-12,New York,E,On-Time,44.9,Layover
+Amara,W.,H-12,New York,E,On-Time,47.7, 
+Vincent,I.,H-12,New York,E,On-Time,44.1,Layover
+Elise,P.,H-12,New York,E,On-Time,47,Layover
+Parker,O.,H-12,New York,E,On-Time,45.5,Layover
+Vivian,A.,H-12,New York,E,On-Time,47.4, 
+Paul,E.,H-12,New York,E,On-Time,47.1,Layover
+Leilani,Z.,H-12,New York,E,On-Time,45, 
+Nolan,K.,H-12,New York,E,On-Time,47.5,Layover
+Rose,T.,H-12,New York,E,On-Time,45,Layover
+Damian,D.,H-12,New York,E,On-Time,47.3, 
+Sienna,M.,H-12,New York,E,On-Time,45.5,Layover
+Tanner,G.,H-12,New York,E,On-Time,46.4,Layover
+Gabriella,F.,H-12,New York,E,On-Time,45.3,Layover
+Spencer,N.,H-12,New York,E,On-Time,44.4, 
+Raelynn,R.,H-12,New York,E,On-Time,44.2,Layover
+Jace,S.,H-12,New York,E,On-Time,45.6,Layover
+Valentina,X.,H-12,New York,E,On-Time,43.9,Layover
+Lorenzo,L.,H-12,New York,E,On-Time,43.3,Layover
+Mikayla,B.,H-12,New York,E,On-Time,44.2, 
+Tyler,V.,H-12,New York,E,On-Time,45, 
+Rosalie,H.,H-12,New York,E,On-Time,47, 
+Bryson,C.,H-12,New York,E,On-Time,45.5,Layover
+Maliyah,W.,H-12,New York,E,On-Time,43.9,Layover
+Tristan,I.,H-12,New York,E,On-Time,43.5,Layover
+Lola,P.,H-12,New York,E,On-Time,46.3,Layover
+Evan,O.,H-12,New York,E,On-Time,43.4,Layover
+Adeline,A.,H-12,New York,E,On-Time,45.4,Layover
+Mark,E.,H-12,New York,E,On-Time,45.6,Layover
+Alyssa,Z.,H-12,New York,E,On-Time,46.6, 
+Graham,K.,H-12,New York,E,On-Time,45.3, 
+Catalina,T.,H-12,New York,E,On-Time,43.2, 
+Kenneth,D.,H-12,New York,E,On-Time,46.2,Layover
+Kayla,M.,H-12,New York,E,On-Time,45.4, 
+Timothy,G.,H-12,New York,E,On-Time,47.2,Layover
+Alaina,F.,H-12,New York,E,On-Time,43.3, 
+Gregory,N.,H-12,New York,E,On-Time,45.8,Layover
+Alana,R.,H-12,New York,E,On-Time,46.5,Layover
+Troy,S.,H-12,New York,E,On-Time,47.4, 
+Sasha,X.,H-12,New York,E,On-Time,44.9,Layover
+Derek,L.,H-12,New York,E,On-Time,46.2, 
+Holly,B.,H-12,New York,E,On-Time,46, 
+Calvin,V.,H-12,New York,E,On-Time,43.6, 
+Anaya,H.,H-12,New York,E,On-Time,43,Layover
+Gage,C.,H-12,New York,E,On-Time,43.7, 
+Aleena,W.,H-12,New York,E,On-Time,44.7, 
+Leon,I.,H-12,New York,E,On-Time,43.9, 
+Eliza,P.,H-12,New York,E,On-Time,46, 
+Reid,O.,H-12,New York,E,On-Time,46.6,Layover
+Georgia,A.,H-12,New York,E,On-Time,43.3, 
+Bradley,E.,H-12,New York,E,On-Time,47.4, 
+Athena,Z.,H-12,New York,E,On-Time,43.3,Layover
+Maxwell,K.,H-12,New York,E,On-Time,46.3, 
+Phoebe,T.,H-12,New York,E,On-Time,46.7, 
+Axel,D.,H-12,New York,E,On-Time,47.5,Layover
+Jocelyn,M.,H-12,New York,E,On-Time,44.2, 
+Miguel,G.,H-12,New York,E,On-Time,43.4,Layover
+Talia,F.,H-12,New York,E,On-Time,47.6, 
+Oscar,N.,H-12,New York,E,On-Time,43.9, 
+Makayla,R.,H-12,New York,E,On-Time,43.1, 
+Jayden,S.,H-12,New York,E,On-Time,47.8, 
+Emerson,X.,H-12,New York,E,On-Time,44.8, 
+Peter,L.,H-12,New York,E,On-Time,47.6, 
+Mallory,B.,H-12,New York,E,On-Time,46.5,Layover
+Matteo,V.,H-12,New York,E,On-Time,44, 
+Harmony,H.,H-12,New York,E,On-Time,45.5,Layover
+Max,C.,H-12,New York,E,On-Time,47.1,Layover
+Lilah,W.,H-12,New York,E,On-Time,46.9,Layover
+Hayden,I.,H-12,New York,E,On-Time,46.5, 
+Carmen,P.,H-12,New York,E,On-Time,44.2, 
+Finn,O.,H-12,New York,E,On-Time,46.6,Layover
+Esme,A.,H-12,New York,E,On-Time,43.7,Layover
+Jayce,E.,H-12,New York,E,On-Time,47.3, 
+Elsie,Z.,H-12,New York,E,On-Time,46.6,Layover
+Kyle,K.,H-12,New York,E,On-Time,44.5, 
+Hallie,T.,H-12,New York,E,On-Time,44, 
+Justin,D.,H-12,New York,E,On-Time,44.2,Layover
+Alison,M.,H-12,New York,E,On-Time,44.4, 
+Marcus,G.,H-12,New York,E,On-Time,47.8, 
+Eloise,F.,H-12,New York,E,On-Time,46.6, 
+Rhett,N.,H-12,New York,E,On-Time,45.9, 
+Maddison,R.,H-12,New York,E,On-Time,44.8, 
+Victor,S.,H-12,New York,B,On-Time,45.6, 
+Adalyn,X.,H-12,New York,B,On-Time,45, 
+George,L.,H-12,New York,B,On-Time,46.9,Layover
+Emery,B.,H-12,New York,B,On-Time,44.7,Layover
+Bennett,V.,H-12,New York,B,On-Time,43.2, 
+Anastasia,H.,H-12,New York,B,On-Time,45, 
+Clark,C.,H-12,New York,B,On-Time,47.4,Layover
+Annabelle,W.,H-12,New York,B,On-Time,45.3,Layover
+Jasper,I.,H-12,New York,B,On-Time,45.3, 
+Daniella,P.,H-12,New York,B,On-Time,45.4,Layover
+Wesley,O.,H-12,New York,B,On-Time,46.3,Layover
+Hanna,A.,H-12,New York,B,On-Time,45.8,Layover
+Chase,E.,H-12,New York,B,On-Time,46.5,Layover
+Liana,Z.,H-12,New York,B,On-Time,46, 
+Emmett,K.,H-12,New York,B,On-Time,47.7,Layover
+Miriam,T.,H-12,New York,B,On-Time,43.5,Layover
+Shane,D.,H-12,New York,B,On-Time,46,Layover
+Ainsley,M.,H-12,New York,B,On-Time,43.7,Layover
+Jared,G.,H-12,New York,B,On-Time,45.5, 
+Madilyn,F.,H-12,New York,B,On-Time,45.8,Layover
+Brayden,N.,H-12,New York,B,On-Time,46.2,Layover
+Maeve,R.,H-12,New York,B,On-Time,45.7, 
+Dawson,S.,H-12,New York,B,On-Time,45, 
+Kendall,X.,H-12,New York,B,On-Time,45.2, 
+Edwin,L.,D-11,Istanbul,E,Late,24.2, 
+Paloma,B.,D-11,Istanbul,E,Late,22.2,Layover
+Ryder,V.,D-11,Istanbul,E,Late,22.8, 
+June,H.,D-11,Istanbul,E,Late,22.8, 
+Lawrence,C.,D-11,Istanbul,E,Late,23.6,Layover
+Raegan,W.,D-11,Istanbul,E,Late,23.8, 
+Hugo,I.,D-11,Istanbul,E,Late,22.8,Layover
+Allie,P.,D-11,Istanbul,E,Late,23, 
+Joel,O.,D-11,Istanbul,E,Late,24.7,Layover
+Amira,A.,D-11,Istanbul,E,Late,24.2,Layover
+Patrick,E.,D-11,Istanbul,E,Late,24.2, 
+Bianca,Z.,D-11,Istanbul,E,Late,23.9, 
+Dean,K.,D-11,Istanbul,E,Late,24.5,Layover
+Kiera,T.,D-11,Istanbul,E,Late,24.8,Layover
+Simon,D.,D-11,Istanbul,E,Late,24.5, 
+Lorelei,M.,D-11,Istanbul,E,Late,22.9,Layover
+Richard,G.,D-11,Istanbul,E,Late,23, 
+Adriana,F.,D-11,Istanbul,E,Late,24.2, 
+Anderson,N.,D-11,Istanbul,E,Late,24.7, 
+Brynn,R.,D-11,Istanbul,E,Late,22.4, 
+Maverick,S.,D-11,Istanbul,E,Late,22.7,Layover
+Lena,X.,D-11,Istanbul,E,Late,23,Layover
+Cade,L.,D-11,Istanbul,E,Late,23.8, 
+Rory,B.,D-11,Istanbul,E,Late,23.2,Layover
+Cyrus,V.,D-11,Istanbul,E,Late,24.5, 
+Colette,H.,D-11,Istanbul,E,Late,24.8, 
+Declan,C.,D-11,Istanbul,E,Late,23.3, 
+Janelle,W.,D-11,Istanbul,E,Late,22.9,Layover
+Brandon,I.,D-11,Istanbul,E,Late,22.5, 
+Tiffany,P.,D-11,Istanbul,E,Late,24.3,Layover
+Felix,O.,D-11,Istanbul,E,Late,23.1, 
+Malia,A.,D-11,Istanbul,E,Late,24.4, 
+Elliot,E.,D-11,Istanbul,E,Late,24.5,Layover
+Natasha,Z.,D-11,Istanbul,E,Late,23.2,Layover
+Dante,K.,D-11,Istanbul,E,Late,24.4, 
+Josie,T.,D-11,Istanbul,E,Late,23.2, 
+Titus,D.,D-11,Istanbul,E,Late,23.5,Layover
+Veronica,M.,D-11,Istanbul,E,Late,22,Layover
+Mitchell,G.,D-11,Istanbul,E,Late,24.7, 
+Nina,F.,D-11,Istanbul,E,Late,22.2, 
+Cruz,N.,D-11,Istanbul,E,Late,23.8,Layover
+Helena,R.,D-11,Istanbul,E,Late,24.1,Layover
+Reed,S.,D-11,Istanbul,E,Late,24.4,Layover
+Adelaide,X.,D-11,Istanbul,E,Late,24.6, 
+Julius,L.,D-11,Istanbul,E,Late,24.3, 
+Daphne,B.,D-11,Istanbul,E,Late,23.7,Layover
+Otto,V.,D-11,Istanbul,E,Late,23.1, 
+Gloria,H.,D-11,Istanbul,E,Late,24.5,Layover
+Quinn,C.,D-11,Istanbul,E,Late,23.7,Layover
+Cassandra,W.,D-11,Istanbul,E,Late,23.5, 
+Reese,I.,D-11,Istanbul,E,Late,23.3, 
+Iris,P.,D-11,Istanbul,E,Late,23.6, 
+Quincy,O.,D-11,Istanbul,E,Late,22.4, 
+Tessa,A.,D-11,Istanbul,E,Late,24.6, 
+Clinton,E.,D-11,Istanbul,E,Late,22.7,Layover
+Maddie,Z.,D-11,Istanbul,E,Late,24.8, 
+Ellis,K.,D-11,Istanbul,E,Late,24.4,Layover
+Lara,T.,D-11,Istanbul,E,Late,23.8, 
+Harlan,D.,D-11,Istanbul,E,Late,24.8,Layover
+Blythe,M.,D-11,Istanbul,E,Late,22.2,Layover
+Sterling,G.,D-11,Istanbul,E,Late,22,Layover
+Juno,F.,D-11,Istanbul,E,Late,23.5,Layover
+Alfred,N.,D-11,Istanbul,E,Late,22.7, 
+Tatiana,R.,D-11,Istanbul,E,Late,23.9,Layover
+Colin,S.,D-11,Istanbul,E,Late,24.5,Layover
+Paige,X.,D-11,Istanbul,E,Late,24.6,Layover
+Everett,L.,D-11,Istanbul,E,Late,23.3, 
+Fiona,B.,D-11,Istanbul,E,Late,22.6,Layover
+Reagan,V.,D-11,Istanbul,E,Late,24.7,Layover
+Lena,H.,D-11,Istanbul,E,Late,23.4, 
+Harley,C.,D-11,Istanbul,E,Late,24.3, 
+Celeste,W.,D-11,Istanbul,E,Late,22.1, 
+Walker,I.,D-11,Istanbul,E,Late,24.2,Layover
+Isis,P.,D-11,Istanbul,E,Late,22.4,Layover
+Kendrick,O.,D-11,Istanbul,E,Late,24.1,Layover
+Ariel,A.,D-11,Istanbul,E,Late,22.7,Layover
+Bryce,E.,D-11,Istanbul,E,Late,22.5,Layover
+Selena,Z.,D-11,Istanbul,E,Late,24.5, 
+Tate,K.,D-11,Istanbul,E,Late,24.8,Layover
+Skye,T.,D-11,Istanbul,E,Late,22.9,Layover
+Albert,D.,D-11,Istanbul,E,Late,23.7, 
+Marina,M.,D-11,Istanbul,E,Late,24.2,Layover
+Gideon,G.,D-11,Istanbul,E,Late,22.1, 
+Alaya,F.,D-11,Istanbul,E,Late,22.3,Layover
+Samson,N.,D-11,Istanbul,E,Late,23.2,Layover
+Anya,R.,D-11,Istanbul,E,Late,22.9,Layover
+Malcolm,S.,D-11,Istanbul,E,Late,22.9,Layover
+Camille,X.,D-11,Istanbul,E,Late,23.5,Layover
+Lachlan,L.,D-11,Istanbul,E,Late,24,Layover
+Frances,B.,D-11,Istanbul,E,Late,24.6, 
+Griffin,V.,D-11,Istanbul,E,Late,24, 
+Emmeline,H.,D-11,Istanbul,E,Late,23.5,Layover
+Forrest,C.,D-11,Istanbul,E,Late,23.4, 
+Ivy,W.,D-11,Istanbul,E,Late,22.2, 
+Luca,I.,D-11,Istanbul,E,Late,24.1, 
+Demi,P.,D-11,Istanbul,E,Late,24.5, 
+Otis,O.,D-11,Istanbul,E,Late,22.6,Layover
+Melody,A.,D-11,Istanbul,E,Late,22,Layover
+Shepherd,E.,D-11,Istanbul,E,Late,24.5,Layover
+Jade,Z.,D-11,Istanbul,E,Late,23, 
+Ronan,K.,D-11,Istanbul,E,Late,24.5,Layover
+Lilian,T.,D-11,Istanbul,E,Late,23.2, 
+Zane,D.,D-11,Istanbul,E,Late,24.3,Layover
+Amelie,M.,D-11,Istanbul,E,Late,24.2, 
+Emery,G.,D-11,Istanbul,E,Late,24.6, 
+Thalia,F.,D-11,Istanbul,E,Late,24.7,Layover
+Alvin,N.,D-11,Istanbul,E,Late,24.4, 
+Charlee,R.,D-11,Istanbul,E,Late,24.4,Layover
+Baker,S.,D-11,Istanbul,E,Late,24, 
+Felicity,X.,D-11,Istanbul,E,Late,23.7, 
+Keegan,L.,D-11,Istanbul,E,Late,23.1, 
+Joselyn,B.,D-11,Istanbul,E,Late,23.1,Layover
+Stetson,V.,D-11,Istanbul,E,Late,22.3,Layover
+Mina,H.,D-11,Istanbul,E,Late,24,Layover
+Darius,C.,D-11,Istanbul,E,Late,24.5, 
+Michaela,W.,D-11,Istanbul,E,Late,23.7, 
+Raphael,I.,D-11,Istanbul,E,Late,23.7, 
+Lylah,P.,D-11,Istanbul,E,Late,22.4,Layover
+Rocco,O.,D-11,Istanbul,E,Late,23.6, 
+Leonardo,E.,D-11,Istanbul,E,Late,22, 
+Alma,Z.,D-11,Istanbul,E,Late,22.8, 
+Jett,K.,D-11,Istanbul,E,Late,23.5,Layover
+Noelle,T.,D-11,Istanbul,E,Late,24.8,Layover
+Phoenix,D.,D-11,Istanbul,E,Late,23, 
+Gabrielle,M.,D-11,Istanbul,E,Late,24.6, 
+Romeo,G.,D-11,Istanbul,E,Late,22.3,Layover
+Raven,F.,D-11,Istanbul,E,Late,24.6,Layover
+Abram,N.,D-11,Istanbul,E,Late,22.2,Layover
+Liana,R.,D-11,Istanbul,E,Late,23.9,Layover
+Edison,S.,D-11,Istanbul,E,Late,22, 
+Aspen,X.,D-11,Istanbul,E,Late,22.4,Layover
+Ellington,L.,D-11,Istanbul,E,Late,23, 
+Gianna,B.,D-11,Istanbul,E,Late,23.5, 
+Duncan,V.,D-11,Istanbul,E,Late,22.5, 
+Jayla,H.,D-11,Istanbul,E,Late,23.3, 
+Terrence,C.,D-11,Istanbul,E,Late,23.9,Layover
+Elora,W.,D-11,Istanbul,E,Late,23.5, 
+Conrad,I.,D-11,Istanbul,E,Late,22.1,Layover
+Willa,P.,D-11,Istanbul,E,Late,22.6,Layover
+Kellan,O.,D-11,Istanbul,E,Late,24.1, 
+Ximena,A.,D-11,Istanbul,E,Late,24,Layover
+Marshall,E.,D-11,Istanbul,E,Late,22.9, 
+Clara,Z.,D-11,Istanbul,E,Late,22.1, 
+August,K.,D-11,Istanbul,E,Late,24.5,Layover
+Eden,T.,D-11,Istanbul,E,Late,22.2, 
+John,D.,D-11,Istanbul,E,Late,22.3,Layover
+Emma,W.,D-11,Istanbul,E,Late,24.1,Layover
+Michael,B.,D-11,Istanbul,E,Late,22.8,Layover
+Olivia,S.,D-11,Istanbul,E,Late,24.8,Layover
+William,T.,D-11,Istanbul,E,Late,23, 
+Ava,C.,D-11,Istanbul,E,Late,23.2, 
+James,M.,D-11,Istanbul,E,Late,22.3,Layover
+Benjamin,R.,D-11,Istanbul,E,Late,22.1,Layover
+Mia,K.,D-11,Istanbul,E,Late,23.3, 
+Lucas,L.,D-11,Istanbul,E,Late,24.2, 
+Amelia,N.,D-11,Istanbul,E,Late,22.2, 
+Henry,H.,D-11,Istanbul,E,Late,24,Layover
+Charlotte,V.,D-11,Istanbul,E,Late,23.1,Layover
+Alexander,J.,D-11,Istanbul,E,Late,24.5,Layover
+Isabella,P.,D-11,Istanbul,E,Late,24,Layover
+Liam,F.,D-11,Istanbul,E,Late,22.6, 
+Emily,E.,D-11,Istanbul,E,Late,22.5, 
+Noah,A.,D-11,Istanbul,E,Late,23,Layover
+Harper,I.,D-11,Istanbul,E,Late,24.3,Layover
+Elijah,O.,D-11,Istanbul,E,Late,24.8, 
+Evelyn,U.,D-11,Istanbul,E,Late,22.7,Layover
+Logan,Q.,D-11,Istanbul,E,Late,22.3, 
+Abigail,Z.,D-11,Istanbul,E,Late,22.5, 
+Mason,X.,D-11,Istanbul,E,Late,24.6,Layover
+Lily,D.,D-11,Istanbul,E,Late,24.7, 
+Sebastian,K.,D-11,Istanbul,E,Late,23.4, 
+Aria,M.,D-11,Istanbul,E,Late,22.5, 
+Ethan,G.,D-11,Istanbul,E,Late,22.3, 
+Ella,N.,D-11,Istanbul,E,Late,23.6,Layover
+Daniel,R.,D-11,Istanbul,E,Late,22.1,Layover
+Grace,S.,D-11,Istanbul,E,Late,22.2,Layover
+Jacob,L.,D-11,Istanbul,E,Late,23.7, 
+Zoe,B.,D-11,Istanbul,E,Late,23, 
+Jackson,T.,D-11,Istanbul,E,Late,22.1,Layover
+Hannah,V.,D-11,Istanbul,E,Late,24.7,Layover
+Levi,F.,D-11,Istanbul,E,Late,22.1, 
+Scarlett,H.,D-11,Istanbul,E,Late,23.4,Layover
+Samuel,C.,D-11,Istanbul,E,Late,22.7,Layover
+Victoria,W.,D-11,Istanbul,E,Late,24.2, 
+Owen,Y.,D-11,Istanbul,E,Late,23.4,Layover
+Madison,P.,D-11,Istanbul,E,Late,22.7, 
+Gabriel,J.,D-11,Istanbul,E,Late,24.5, 
+Layla,A.,D-11,Istanbul,E,Late,24.6,Layover
+Matthew,X.,D-11,Istanbul,E,Late,23.9, 
+Nora,O.,D-11,Istanbul,E,Late,23.8, 
+Aiden,E.,D-11,Istanbul,E,Late,22.7, 
+Riley,Q.,D-11,Istanbul,E,Late,24.4,Layover
+Joseph,U.,D-11,Istanbul,E,Late,24.2, 
+Leah,Z.,D-11,Istanbul,E,Late,24, 
+David,K.,D-11,Istanbul,E,Late,24.8, 
+Chloe,D.,D-11,Istanbul,E,Late,23, 
+Andrew,M.,D-11,Istanbul,E,Late,22.8,Layover
+Hazel,B.,D-11,Istanbul,E,Late,24.4, 
+Wyatt,N.,D-11,Istanbul,E,Late,23.2,Layover
+Luna,S.,D-11,Istanbul,E,Late,24.2,Layover
+Isaac,T.,D-11,Istanbul,E,Late,24.3,Layover
+Ellie,W.,D-11,Istanbul,E,Late,23.5, 
+Nathaniel,V.,D-11,Istanbul,E,Late,24.8, 
+Penelope,L.,D-11,Istanbul,E,Late,24.3, 
+Dylan,H.,D-11,Istanbul,E,Late,23.8,Layover
+Mila,F.,D-11,Istanbul,E,Late,22.9, 
+Caleb,R.,D-11,Istanbul,E,Late,22.9, 
+Lucy,C.,D-11,Istanbul,E,Late,22.7,Layover
+Ryan,I.,D-11,Istanbul,E,Late,24.3,Layover
+Stella,J.,D-11,Istanbul,E,Late,23.4, 
+Asher,Q.,D-11,Istanbul,E,Late,24.4,Layover
+Maya,P.,D-11,Istanbul,E,Late,23.7, 
+Christopher,O.,D-11,Istanbul,E,Late,24, 
+Savannah,A.,D-11,Istanbul,E,Late,22.8,Layover
+Julian,E.,D-11,Istanbul,E,Late,24.2, 
+Aurora,Z.,D-11,Istanbul,E,Late,24.5, 
+Landon,K.,D-11,Istanbul,E,Late,24.6,Layover
+Bella,T.,D-11,Istanbul,E,Late,22.9, 
+Nicholas,D.,D-11,Istanbul,E,Late,22.6,Layover
+Addison,M.,D-11,Istanbul,E,Late,24.8,Layover
+Christian,G.,D-11,Istanbul,E,Late,24.7, 
+Willow,F.,D-11,Istanbul,E,Late,24.8,Layover
+Hunter,N.,D-11,Istanbul,E,Late,22.6,Layover
+Autumn,R.,D-11,Istanbul,E,Late,24.3,Layover
+Anthony,S.,D-11,Istanbul,E,Late,24.6,Layover
+Violet,X.,D-11,Istanbul,E,Late,22.1, 
+Thomas,L.,D-11,Istanbul,E,Late,22.5, 
+Paisley,B.,D-11,Istanbul,E,Late,24.5, 
+Joshua,V.,D-11,Istanbul,E,Late,22.1, 
+Audrey,H.,D-11,Istanbul,E,Late,24.4,Layover
+Aaron,C.,D-11,Istanbul,E,Late,23.1,Layover
+Elliana,W.,D-11,Istanbul,E,Late,24, 
+Connor,I.,D-11,Istanbul,E,Late,24.5,Layover
+Naomi,P.,D-11,Istanbul,E,Late,24.7, 
+Isaiah,O.,D-11,Istanbul,E,Late,24.3,Layover
+Rylee,A.,D-11,Istanbul,E,Late,23.2,Layover
+Brandon,E.,D-11,Istanbul,E,Late,24.7,Layover
+Hazel,Q.,D-11,Istanbul,E,Late,24.6,Layover
+Jaxon,U.,D-11,Istanbul,E,Late,22.1, 
+Serenity,Z.,D-11,Istanbul,E,Late,23.7, 
+Eli,K.,D-11,Istanbul,B,Late,23.4,Layover
+Skylar,T.,D-11,Istanbul,B,Late,24.5,Layover
+Angel,D.,D-11,Istanbul,B,Late,22.2,Layover
+Aubrey,M.,D-11,Istanbul,B,Late,22, 
+Carter,G.,D-11,Istanbul,B,Late,24.3, 
+Kennedy,F.,D-11,Istanbul,B,Late,22.4, 
+Colton,N.,D-11,Istanbul,B,Late,22.5,Layover
+Madeline,R.,D-11,Istanbul,B,Late,22.3, 
+Roman,S.,D-11,Istanbul,B,Late,22.4,Layover
+Aaliyah,X.,D-11,Istanbul,B,Late,22.8, 
+Dominic,L.,D-11,Istanbul,B,Late,23.2, 
+Kinsley,B.,D-11,Istanbul,B,Late,22.7, 
+Ian,V.,D-11,Istanbul,B,Late,23.3, 
+Camila,H.,D-11,Istanbul,B,Late,23.3,Layover
+Adrian,C.,D-11,Istanbul,B,Late,23,Layover
+Everly,W.,D-11,Istanbul,B,Late,23, 
+Nathan,I.,D-11,Istanbul,B,Late,22.8,Layover
+Kevin,O.,D-11,Istanbul,B,Late,24.8,Layover
+Ruby,A.,D-11,Istanbul,B,Late,23.8,Layover
+Adam,E.,D-11,Istanbul,B,Late,23.7, 
+Samantha,Z.,D-11,Istanbul,B,Late,22.8, 
+Jonah,K.,D-11,Istanbul,B,Late,24.2, 
+Mackenzie,T.,D-11,Istanbul,B,Late,22.2, 
+Zachary,D.,D-11,Istanbul,B,Late,23.7, 
+Amina,Y.,B-15,London,E,On-Time,22.9,Layover
+Leila,M.,B-15,London,E,On-Time,24.2, 
+Carlos,R.,B-15,London,E,On-Time,24.8, 
+Priya,K.,B-15,London,E,On-Time,22.4, 
+Omar,S.,B-15,London,E,On-Time,23.7, 
+Mei,L.,B-15,London,E,On-Time,24.7, 
+Fatima,N.,B-15,London,E,On-Time,23.3, 
+Diego,G.,B-15,London,E,On-Time,23.5,Layover
+Aria,H.,B-15,London,E,On-Time,22.2, 
+Rohan,P.,B-15,London,E,On-Time,22.6,Layover
+Anaya,D.,B-15,London,E,On-Time,23.1, 
+Santiago,C.,B-15,London,E,On-Time,23.6,Layover
+Zara,B.,B-15,London,E,On-Time,23.3, 
+Malik,O.,B-15,London,E,On-Time,24.8, 
+Yara,F.,B-15,London,E,On-Time,23.7, 
+Kenji,I.,B-15,London,E,On-Time,22, 
+Sofia,Z.,B-15,London,E,On-Time,22.5, 
+Ahmed,A.,B-15,London,E,On-Time,22.9,Layover
+Keiko,Y.,B-15,London,E,On-Time,22.2, 
+Indira,T.,B-15,London,E,On-Time,22.6,Layover
+Jamal,M.,B-15,London,E,On-Time,22.2, 
+Yasmin,R.,B-15,London,E,On-Time,23.6, 
+Rafael,L.,B-15,London,E,On-Time,24.8,Layover
+Lina,S.,B-15,London,E,On-Time,22.2,Layover
+Naveen,K.,B-15,London,E,On-Time,23.1, 
+Amira,W.,B-15,London,E,On-Time,22.6,Layover
+Matteo,E.,B-15,London,E,On-Time,23.6, 
+Layla,Q.,B-15,London,E,On-Time,22.6, 
+Youssef,H.,B-15,London,E,On-Time,23.3, 
+Imani,N.,B-15,London,E,On-Time,22.5, 
+Suki,O.,B-15,London,E,On-Time,22.9, 
+Raj,A.,B-15,London,E,On-Time,23.4, 
+Maya,D.,B-15,London,E,On-Time,24.7,Layover
+Tariq,J.,B-15,London,E,On-Time,23.4, 
+Lila,V.,B-15,London,E,On-Time,23, 
+Lucia,M.,B-15,London,E,On-Time,22.9, 
+Khalid,F.,B-15,London,E,On-Time,23.4, 
+Noor,C.,B-15,London,E,On-Time,24.7, 
+Aarav,S.,B-15,London,E,On-Time,22.3, 
+Isabel,H.,B-15,London,E,On-Time,24.9,Layover
+Zain,R.,B-15,London,E,On-Time,23.9, 
+Amara,B.,B-15,London,E,On-Time,24.5, 
+Javier,T.,B-15,London,E,On-Time,23.5, 
+Elena,K.,B-15,London,E,On-Time,23.1,Layover
+Mina,L.,B-15,London,E,On-Time,23.3,Layover
+Olivier,Z.,B-15,London,E,On-Time,23.1,Layover
+Ayesha,P.,B-15,London,E,On-Time,22.3, 
+Kiran,J.,B-15,London,E,On-Time,23.8, 
+Maria,Q.,B-15,London,E,On-Time,23.2,Layover
+Koji,I.,B-15,London,E,On-Time,24.5,Layover
+Sabrina,W.,B-15,London,E,On-Time,23.1, 
+Aliyah,M.,B-15,London,E,On-Time,24.2,Layover
+Elias,N.,B-15,London,E,On-Time,24.8, 
+Hana,E.,B-15,London,E,On-Time,22.9,Layover
+Farah,O.,B-15,London,E,On-Time,22.1, 
+Mohamed,T.,B-15,London,E,On-Time,22.6,Layover
+Rina,D.,B-15,London,E,On-Time,22.9,Layover
+Nadia,Y.,B-15,London,E,On-Time,22.1, 
+Sanjay,F.,B-15,London,E,On-Time,24.4, 
+Aziza,K.,B-15,London,E,On-Time,22, 
+Luca,G.,B-15,London,E,On-Time,24,Layover
+Selena,R.,B-15,London,E,On-Time,23.7,Layover
+Naomi,A.,B-15,London,E,On-Time,22.6,Layover
+Amina,Y.,B-15,London,B,On-Time,23.7,Layover
+Leila,M.,B-15,London,B,On-Time,23.2,Layover
+Carlos,R.,B-15,London,B,On-Time,23.5, 
+Priya,K.,B-15,London,B,On-Time,23.6, 
+Omar,S.,B-15,London,B,On-Time,24.2,Layover
+Mei,L.,B-15,London,B,On-Time,22.8,Layover
+Fatima,N.,B-15,London,B,On-Time,24.5,Layover
+Diego,G.,B-15,London,B,On-Time,22.4,Layover
+Aria,H.,B-15,London,B,On-Time,22.3,Layover
+Rohan,P.,B-15,London,B,On-Time,22.9,Layover
+Anaya,D.,B-15,London,B,On-Time,24.8,Layover
+Aliyah,M.,D-7,Dubai,E,On-Time,23.5,Layover
+Elias,N.,D-7,Dubai,E,On-Time,22.5,Layover
+Hana,E.,D-7,Dubai,E,On-Time,24.6, 
+Farah,O.,D-7,Dubai,E,On-Time,24.6, 
+Mohamed,T.,D-7,Dubai,E,On-Time,24.3, 
+Rina,D.,D-7,Dubai,E,On-Time,22.3, 
+Nadia,Y.,D-7,Dubai,E,On-Time,23.5,Layover
+Sanjay,F.,D-7,Dubai,E,On-Time,22.1,Layover
+Aziza,K.,D-7,Dubai,E,On-Time,24.2,Layover
+Luca,G.,D-7,Dubai,E,On-Time,22.7, 
+Selena,R.,D-7,Dubai,E,On-Time,23,Layover
+Naomi,A.,D-7,Dubai,E,On-Time,23.7, 
+Nia,L.,D-7,Dubai,E,On-Time,22.7, 
+Zara,M.,D-7,Dubai,E,On-Time,24.8, 
+Miguel,B.,D-7,Dubai,E,On-Time,22.2,Layover
+Anika,T.,D-7,Dubai,E,On-Time,24, 
+Iker,H.,D-7,Dubai,E,On-Time,23.9,Layover
+Elina,V.,D-7,Dubai,E,On-Time,22, 
+Omar,A.,D-7,Dubai,E,On-Time,24.1, 
+Linh,N.,D-7,Dubai,E,On-Time,24.8,Layover
+Kai,Z.,D-7,Dubai,E,On-Time,22.4, 
+Riya,S.,D-7,Dubai,E,On-Time,22.8, 
+Amir,K.,D-7,Dubai,E,On-Time,24.8,Layover
+Esme,C.,D-7,Dubai,E,On-Time,24.8, 
+Tariq,P.,D-7,Dubai,E,On-Time,23.6, 
+Zara,Q.,D-7,Dubai,E,On-Time,24.5,Layover
+Farid,I.,D-7,Dubai,E,On-Time,24.7,Layover
+Sanya,L.,D-7,Dubai,E,On-Time,22.8,Layover
+Alonzo,G.,D-7,Dubai,E,On-Time,23.7, 
+Keira,M.,D-7,Dubai,E,On-Time,23.8, 
+Aditya,D.,D-7,Dubai,E,On-Time,22.2, 
+Noor,J.,D-7,Dubai,E,On-Time,22,Layover
+Levi,X.,D-7,Dubai,E,On-Time,22.3,Layover
+Aisha,T.,D-7,Dubai,E,On-Time,23.6, 
+Zayd,B.,D-7,Dubai,E,On-Time,23.9, 
+Leila,R.,D-7,Dubai,E,On-Time,24.3, 
+Kofi,O.,D-7,Dubai,E,On-Time,22.8, 
+Selma,N.,D-7,Dubai,E,On-Time,23.7,Layover
+Dario,F.,D-7,Dubai,E,On-Time,22.3,Layover
+Lina,H.,D-7,Dubai,E,On-Time,22.2,Layover
+Nadir,Y.,D-7,Dubai,E,On-Time,23.3, 
+Eira,P.,D-7,Dubai,E,On-Time,22.4, 
+Karim,W.,D-7,Dubai,E,On-Time,22.7,Layover
+Yasmin,Z.,D-7,Dubai,E,On-Time,24.1,Layover
+Soren,C.,D-7,Dubai,E,On-Time,24.4, 
+Amal,V.,D-7,Dubai,E,On-Time,24.5, 
+Takumi,K.,D-7,Dubai,E,On-Time,24.2,Layover
+Halima,A.,D-7,Dubai,E,On-Time,24.6,Layover
+Ismael,S.,D-7,Dubai,E,On-Time,23.7,Layover
+Farrah,L.,D-7,Dubai,E,On-Time,23,Layover
+Amina,D.,D-7,Dubai,E,On-Time,23.7, 
+Omaru,E.,D-7,Dubai,E,On-Time,22.8, 
+Jia,Q.,D-7,Dubai,E,On-Time,22.7,Layover
+Femi,J.,D-7,Dubai,E,On-Time,23.5,Layover
+Hana,I.,D-7,Dubai,E,On-Time,22.9,Layover
+Mustafa,T.,D-7,Dubai,E,On-Time,23.7,Layover
+Inaya,Z.,D-7,Dubai,E,On-Time,23.1, 
+Andre,C.,D-7,Dubai,E,On-Time,23,Layover
+Kira,G.,D-7,Dubai,E,On-Time,23.7,Layover
+Arjun,F.,D-7,Dubai,E,On-Time,22.1,Layover
+Aylin,K.,D-7,Dubai,E,On-Time,22.6, 
+Zahra,B.,D-7,Dubai,E,On-Time,23.9, 
+Elian,M.,D-7,Dubai,E,On-Time,24.6, 
+Yasmina,S.,D-7,Dubai,E,On-Time,23.3, 
+Leon,Z.,D-7,Dubai,E,On-Time,24.7, 
+Maliha,D.,D-7,Dubai,E,On-Time,23.9,Layover
+Jiro,N.,D-7,Dubai,E,On-Time,22.4,Layover
+Faris,A.,D-7,Dubai,E,On-Time,24.2,Layover
+Eshaal,R.,D-7,Dubai,E,On-Time,24.4,Layover
+Kian,P.,D-7,Dubai,E,On-Time,24.1, 
+Selene,O.,D-7,Dubai,E,On-Time,23.9, 
+Tariq,H.,D-7,Dubai,E,On-Time,23.9, 
+Leilani,C.,D-7,Dubai,E,On-Time,22.4,Layover
+Zane,G.,D-7,Dubai,E,On-Time,23.7, 
+Samira,W.,D-7,Dubai,E,On-Time,23, 
+Darius,L.,D-7,Dubai,E,On-Time,22.7,Layover
+Noora,H.,D-7,Dubai,E,On-Time,24,Layover
+Mateo,V.,D-7,Dubai,E,On-Time,24.6, 
+Soraya,T.,D-7,Dubai,E,On-Time,24.7,Layover
+Ismail,J.,D-7,Dubai,E,On-Time,22.5, 
+Zainab,O.,D-7,Dubai,E,On-Time,23.8, 
+Raul,M.,D-7,Dubai,E,On-Time,23.5,Layover
+Anya,R.,D-7,Dubai,E,On-Time,22.2, 
+Khalid,Y.,D-7,Dubai,E,On-Time,22.5, 
+Mara,S.,D-7,Dubai,E,On-Time,22.8, 
+Milan,E.,D-7,Dubai,E,On-Time,23.8, 
+Anisa,Z.,D-7,Dubai,E,On-Time,23, 
+Rima,K.,D-7,Dubai,E,On-Time,24.7, 
+Hussein,Q.,D-7,Dubai,E,On-Time,24.6,Layover
+Fatima,L.,D-7,Dubai,E,On-Time,22.6, 
+Alejandro,W.,D-7,Dubai,E,On-Time,22.6,Layover
+Aroha,F.,D-7,Dubai,E,On-Time,24.3, 
+Naveed,G.,D-7,Dubai,E,On-Time,23, 
+Priya,X.,D-7,Dubai,E,On-Time,24.3, 
+Lorenzo,C.,D-7,Dubai,E,On-Time,24.4, 
+Maya,H.,D-7,Dubai,E,On-Time,24.3, 
+Adel,O.,D-7,Dubai,E,On-Time,23.9, 
+Zoya,P.,D-7,Dubai,E,On-Time,22.1,Layover
+Kenan,I.,D-7,Dubai,E,On-Time,22.2, 
+Hadi,J.,D-7,Dubai,E,On-Time,23.4, 
+Soraya,T.,D-7,Dubai,E,On-Time,24.3, 
+Yara,B.,D-7,Dubai,E,On-Time,24.3,Layover
+Marco,S.,D-7,Dubai,E,On-Time,24.4, 
+Neha,Z.,D-7,Dubai,E,On-Time,22.3, 
+Rafael,M.,D-7,Dubai,E,On-Time,23.8, 
+Sadia,N.,D-7,Dubai,E,On-Time,23.6, 
+Amjad,R.,D-7,Dubai,E,On-Time,23,Layover
+Zayna,K.,D-7,Dubai,E,On-Time,23.4, 
+Leonardo,D.,D-7,Dubai,E,On-Time,24.7,Layover
+Rania,F.,D-7,Dubai,E,On-Time,24.1, 
+Kamal,U.,D-7,Dubai,E,On-Time,22.9,Layover
+Aisha,W.,D-7,Dubai,E,On-Time,23.6, 
+Yousef,T.,D-7,Dubai,E,On-Time,24.5,Layover
+Mariana,L.,D-7,Dubai,E,On-Time,24.6,Layover
+Aziz,M.,D-7,Dubai,E,On-Time,22.8,Layover
+Nahla,Y.,D-7,Dubai,E,On-Time,23.7,Layover
+Yara,C.,D-7,Dubai,E,On-Time,22.5,Layover
+Hamza,S.,D-7,Dubai,E,On-Time,24.2, 
+Emilia,K.,D-7,Dubai,E,On-Time,22.3, 
+Farouk,G.,D-7,Dubai,E,On-Time,22.1, 
+Zayna,R.,D-7,Dubai,E,On-Time,23.7,Layover
+Junaid,P.,D-7,Dubai,E,On-Time,22.3, 
+Soraya,J.,D-7,Dubai,B,On-Time,24, 
+Hassan,B.,D-7,Dubai,B,On-Time,24.9,Layover
+Lila,A.,D-7,Dubai,B,On-Time,23.6, 
+Omar,H.,D-7,Dubai,B,On-Time,22.2,Layover
+Amina,V.,D-7,Dubai,B,On-Time,22.5, 
+Dalia,Q.,D-7,Dubai,B,On-Time,24.5,Layover
+Kareem,M.,D-7,Dubai,B,On-Time,23.6,Layover
+Mira,E.,D-7,Dubai,B,On-Time,22.9,Layover
+Nora,Z.,D-7,Dubai,B,On-Time,22.2, 
+Tariq,L.,D-7,Dubai,B,On-Time,24.6,Layover
+Muna,T.,D-7,Dubai,B,On-Time,22.4, 
+Yasir,C.,D-7,Dubai,B,On-Time,22.1, 
+Samia,R.,D-7,Dubai,B,On-Time,23.9,Layover
+Jamil,F.,D-7,Dubai,B,On-Time,24.3, 
+Kiana,S.,D-7,Dubai,B,On-Time,24, 
+Emily,J.,E-4,Paris,E,On-Time,44.1,Layover
+Liam,B.,E-4,Paris,E,On-Time,47.4,Layover
+Aisha,K.,E-4,Paris,E,On-Time,47.3, 
+Javier,M.,E-4,Paris,E,On-Time,46,Layover
+Clara,W.,E-4,Paris,E,On-Time,46, 
+Ahmed,S.,E-4,Paris,E,On-Time,43.7, 
+Sofia,L.,E-4,Paris,E,On-Time,43.5, 
+Lucas,T.,E-4,Paris,E,On-Time,47.5,Layover
+Priya,N.,E-4,Paris,E,On-Time,44.4, 
+Olivia,C.,E-4,Paris,E,On-Time,43.1, 
+Ethan,R.,E-4,Paris,E,On-Time,47.9,Layover
+Leila,D.,E-4,Paris,E,On-Time,47.8,Layover
+Sebastian,F.,E-4,Paris,E,On-Time,47.5,Layover
+Fatima,A.,E-4,Paris,E,On-Time,44,Layover
+Henry,Z.,E-4,Paris,E,On-Time,43.5,Layover
+Amara,V.,E-4,Paris,E,On-Time,43,Layover
+Mason,P.,E-4,Paris,E,On-Time,45, 
+Ravi,I.,E-4,Paris,E,On-Time,44.2,Layover
+Amelia,O.,E-4,Paris,E,On-Time,45.8,Layover
+Miguel,H.,E-4,Paris,E,On-Time,47.1,Layover
+Nina,Q.,E-4,Paris,E,On-Time,43.3,Layover
+Isaac,G.,E-4,Paris,E,On-Time,44.9,Layover
+Lina,E.,E-4,Paris,E,On-Time,43.2,Layover
+David,K.,E-4,Paris,E,On-Time,44, 
+Mei,Y.,E-4,Paris,E,On-Time,45.1,Layover
+Charlotte,X.,E-4,Paris,E,On-Time,47.5, 
+Omar,L.,E-4,Paris,E,On-Time,45.8,Layover
+Hannah,M.,E-4,Paris,E,On-Time,45, 
+Yousef,C.,E-4,Paris,E,On-Time,46.4,Layover
+Violet,U.,E-4,Paris,E,On-Time,47.3,Layover
+Naveen,B.,E-4,Paris,E,On-Time,47.2, 
+Elena,R.,E-4,Paris,E,On-Time,46.5,Layover
+Diego,J.,E-4,Paris,E,On-Time,46.7,Layover
+Claire,S.,E-4,Paris,E,On-Time,47.7,Layover
+Santiago,D.,E-4,Paris,E,On-Time,47.1, 
+Lily,F.,E-4,Paris,E,On-Time,44.4, 
+Mateo,N.,E-4,Paris,E,On-Time,47.1, 
+Aria,T.,E-4,Paris,E,On-Time,47.4, 
+Zane,O.,E-4,Paris,E,On-Time,47.6,Layover
+Amina,I.,E-4,Paris,E,On-Time,45.2,Layover
+Oliver,V.,E-4,Paris,E,On-Time,43.8, 
+Anaya,P.,E-4,Paris,E,On-Time,47.6,Layover
+Aidan,W.,E-4,Paris,E,On-Time,46.9, 
+Selma,L.,E-4,Paris,E,On-Time,44.9, 
+Julian,G.,E-4,Paris,E,On-Time,43.8, 
+Keira,A.,E-4,Paris,E,On-Time,44.4, 
+Rohan,K.,E-4,Paris,E,On-Time,44.8,Layover
+Aurora,C.,E-4,Paris,E,On-Time,47.9, 
+Nora,H.,E-4,Paris,E,On-Time,44, 
+Kenji,Z.,E-4,Paris,E,On-Time,47.2,Layover
+Madeline,E.,E-4,Paris,E,On-Time,47.3,Layover
+Tariq,Y.,E-4,Paris,E,On-Time,47.5,Layover
+Carlos,M.,E-4,Paris,E,On-Time,47.4,Layover
+Isla,R.,E-4,Paris,E,On-Time,43.5,Layover
+Sanjay,J.,E-4,Paris,E,On-Time,43.6,Layover
+Maya,T.,E-4,Paris,E,On-Time,46.6, 
+Leo,N.,E-4,Paris,E,On-Time,45.2, 
+Ayesha,F.,E-4,Paris,E,On-Time,45.1,Layover
+Felix,Q.,E-4,Paris,E,On-Time,46.8,Layover
+Samira,X.,E-4,Paris,E,On-Time,44.4, 
+Connor,I.,E-4,Paris,E,On-Time,45.4, 
+Zara,O.,E-4,Paris,E,On-Time,44.3, 
+Gavin,D.,E-4,Paris,E,On-Time,46.4,Layover
+Indira,P.,E-4,Paris,E,On-Time,46.4,Layover
+Zane,K.,E-4,Paris,E,On-Time,43.6, 
+Harper,S.,E-4,Paris,E,On-Time,44.8,Layover
+Anika,U.,E-4,Paris,E,On-Time,45.9,Layover
+Maxwell,W.,E-4,Paris,E,On-Time,47,Layover
+Riya,H.,E-4,Paris,E,On-Time,47.5,Layover
+Elliot,V.,E-4,Paris,E,On-Time,46.5, 
+Fatimah,L.,E-4,Paris,E,On-Time,44.7,Layover
+Adrian,Y.,E-4,Paris,E,On-Time,47.8,Layover
+Lydia,C.,E-4,Paris,E,On-Time,43.7, 
+Malik,M.,E-4,Paris,E,On-Time,45.1,Layover
+Scarlett,T.,E-4,Paris,E,On-Time,43, 
+Imran,A.,E-4,Paris,E,On-Time,43.7,Layover
+Ella,J.,E-4,Paris,E,On-Time,47.6, 
+Rajesh,B.,E-4,Paris,E,On-Time,44.6, 
+Victoria,G.,E-4,Paris,E,On-Time,43.4,Layover
+Lorenzo,F.,E-4,Paris,E,On-Time,44,Layover
+Mila,Z.,E-4,Paris,E,On-Time,45.4,Layover
+Farah,O.,E-4,Paris,E,On-Time,43.1, 
+Oscar,N.,E-4,Paris,E,On-Time,45.5,Layover
+Leah,D.,E-4,Paris,E,On-Time,43.2,Layover
+Jamal,K.,E-4,Paris,E,On-Time,44.3,Layover
+Vivian,E.,E-4,Paris,E,On-Time,46.1,Layover
+Diego,W.,E-4,Paris,E,On-Time,43.7, 
+Fiona,Q.,E-4,Paris,E,On-Time,47.2, 
+Amir,L.,E-4,Paris,E,On-Time,44.9, 
+Rachel,H.,E-4,Paris,E,On-Time,43.6,Layover
+Hassan,S.,E-4,Paris,E,On-Time,46.6,Layover
+Eliza,M.,E-4,Paris,E,On-Time,47.5,Layover
+Rafael,R.,E-4,Paris,E,On-Time,45.3,Layover
+Zahara,B.,E-4,Paris,E,On-Time,45.9, 
+Kai,Y.,E-4,Paris,E,On-Time,43.8, 
+Nina,X.,E-4,Paris,E,On-Time,44.8, 
+Khalid,C.,E-4,Paris,E,On-Time,43.2, 
+Alyssa,P.,E-4,Paris,E,On-Time,46.5,Layover
+Imani,O.,E-4,Paris,E,On-Time,43.6,Layover
+Caleb,J.,E-4,Paris,E,On-Time,43.7,Layover
+Layla,T.,E-4,Paris,E,On-Time,43.7,Layover
+Rosa,V.,E-4,Paris,E,On-Time,44.9,Layover
+Mohammed,F.,E-4,Paris,E,On-Time,45.4,Layover
+Talia,I.,E-4,Paris,E,On-Time,45, 
+Isaiah,W.,E-4,Paris,E,On-Time,44.3,Layover
+Yara,L.,E-4,Paris,E,On-Time,47.1, 
+Benito,K.,E-4,Paris,E,On-Time,46.7, 
+Sonia,M.,E-4,Paris,E,On-Time,45.3,Layover
+Luca,D.,E-4,Paris,E,On-Time,45.4, 
+Marina,R.,E-4,Paris,E,On-Time,45.5,Layover
+Ahmed,A.,E-4,Paris,E,On-Time,44.2,Layover
+Helena,G.,E-4,Paris,E,On-Time,46.8,Layover
+Farouk,S.,E-4,Paris,E,On-Time,45.9, 
+Alice,Q.,E-4,Paris,E,On-Time,44.9,Layover
+Nizar,Z.,E-4,Paris,E,On-Time,43.7, 
+Adeline,J.,E-4,Paris,E,On-Time,44.9,Layover
+Serena,H.,E-4,Paris,E,On-Time,43.5, 
+Omar,U.,E-4,Paris,E,On-Time,43.5,Layover
+Genevieve,C.,E-4,Paris,E,On-Time,44.6,Layover
+Reza,E.,E-4,Paris,E,On-Time,46.1,Layover
+Isabelle,M.,E-4,Paris,E,On-Time,46.4, 
+Abdul,R.,E-4,Paris,E,On-Time,45.3,Layover
+Ariana,T.,E-4,Paris,E,On-Time,46.5,Layover
+Salim,O.,E-4,Paris,E,On-Time,46.3, 
+Grace,L.,E-4,Paris,E,On-Time,44.9, 
+Mina,K.,E-4,Paris,E,On-Time,46.2, 
+Xander,W.,E-4,Paris,E,On-Time,45.4, 
+Anwar,Y.,E-4,Paris,E,On-Time,45.9, 
+Noelle,P.,E-4,Paris,E,On-Time,46.5,Layover
+Jared,F.,E-4,Paris,E,On-Time,45.2, 
+Aaliyah,N.,E-4,Paris,E,On-Time,46.8, 
+Rina,V.,E-4,Paris,E,On-Time,46.9, 
+Hugo,D.,E-4,Paris,E,On-Time,43.3,Layover
+Fatima,Z.,E-4,Paris,E,On-Time,47,Layover
+Sofia,I.,E-4,Paris,E,On-Time,43.6,Layover
+Arjun,G.,E-4,Paris,E,On-Time,44.8,Layover
+Laila,X.,E-4,Paris,E,On-Time,44.2,Layover
+Dario,S.,E-4,Paris,E,On-Time,46.1, 
+Kiana,L.,E-4,Paris,E,On-Time,43.9, 
+Elian,Q.,E-4,Paris,E,On-Time,46,Layover
+Neha,M.,E-4,Paris,E,On-Time,43.6, 
+Bruno,J.,E-4,Paris,E,On-Time,44.3,Layover
+Dahlia,T.,E-4,Paris,E,On-Time,44, 
+Mustafa,H.,E-4,Paris,E,On-Time,45.5, 
+Rami,B.,E-4,Paris,E,On-Time,47.8,Layover
+Yasmin,W.,E-4,Paris,E,On-Time,46.2, 
+Malik,C.,E-4,Paris,E,On-Time,46.6,Layover
+Anisa,U.,E-4,Paris,E,On-Time,45.7,Layover
+Giselle,A.,E-4,Paris,E,On-Time,44.8, 
+Samson,E.,E-4,Paris,E,On-Time,47.9,Layover
+Malia,Y.,E-4,Paris,E,On-Time,44.7, 
+Jasper,I.,E-4,Paris,E,On-Time,43.8, 
+Khadija,Z.,E-4,Paris,E,On-Time,46.5,Layover
+Leon,B.,E-4,Paris,E,On-Time,46.5,Layover
+Mariam,R.,E-4,Paris,E,On-Time,47.3, 
+Youssef,T.,E-4,Paris,E,On-Time,43.5, 
+Lila,G.,E-4,Paris,E,On-Time,45.4, 
+Elias,O.,E-4,Paris,E,On-Time,45,Layover
+Raina,P.,E-4,Paris,E,On-Time,46.3, 
+Zayd,K.,E-4,Paris,B,On-Time,44.3,Layover
+Elena,F.,E-4,Paris,B,On-Time,46.6, 
+Daniyal,M.,E-4,Paris,B,On-Time,47.4, 
+Leilani,C.,E-4,Paris,B,On-Time,46.3,Layover
+Omar,W.,E-4,Paris,B,On-Time,43.2, 
+Akira,N.,E-4,Paris,B,On-Time,46.9, 
+Jin,Y.,E-4,Paris,B,On-Time,46.5, 
+Tenzin,S.,E-4,Paris,B,On-Time,44.1,Layover
+Ling,M.,E-4,Paris,B,On-Time,43, 
+Kazuo,T.,E-4,Paris,B,On-Time,47.8, 
+Aiko,H.,E-4,Paris,B,On-Time,43.8,Layover
+Ren,X.,E-4,Paris,B,On-Time,44.6, 
+Yumi,K.,E-4,Paris,B,On-Time,46, 
+Ryota,Z.,E-4,Paris,B,On-Time,44.1, 
+Mika,I.,E-4,Paris,B,On-Time,44.2,Layover
+Suki,V.,E-4,Paris,B,On-Time,46.2,Layover
+Ayumi,L.,E-4,Paris,B,On-Time,44.6,Layover
+Jiro,E.,E-4,Paris,B,On-Time,45.5,Layover
+Emily,J.,F-5,Sydney,E,Late,24.8,Layover
+Liam,B.,F-5,Sydney,E,Late,24.5, 
+Aisha,K.,F-5,Sydney,E,Late,23.6,Layover
+Javier,M.,F-5,Sydney,E,Late,23.1,Layover
+Clara,W.,F-5,Sydney,E,Late,22.4,Layover
+Ahmed,S.,F-5,Sydney,E,Late,22, 
+Sofia,L.,F-5,Sydney,E,Late,24.8, 
+Lucas,T.,F-5,Sydney,E,Late,23.1, 
+Priya,N.,F-5,Sydney,E,Late,22.6, 
+Olivia,C.,F-5,Sydney,E,Late,24.6,Layover
+Ethan,R.,F-5,Sydney,E,Late,22.5,Layover
+Leila,D.,F-5,Sydney,E,Late,24.8, 
+Sebastian,F.,F-5,Sydney,E,Late,22.8, 
+Fatima,A.,F-5,Sydney,E,Late,24.4, 
+Henry,Z.,F-5,Sydney,E,Late,22.7, 
+Amara,V.,F-5,Sydney,E,Late,22, 
+Mason,P.,F-5,Sydney,E,Late,23.1, 
+Ravi,I.,F-5,Sydney,E,Late,23.7, 
+Amelia,O.,F-5,Sydney,E,Late,24,Layover
+Miguel,H.,F-5,Sydney,E,Late,24.8, 
+Nina,Q.,F-5,Sydney,E,Late,23.8, 
+Isaac,G.,F-5,Sydney,E,Late,24.5,Layover
+Lina,E.,F-5,Sydney,E,Late,22.2,Layover
+David,K.,F-5,Sydney,E,Late,24.4,Layover
+Mei,Y.,F-5,Sydney,E,Late,24, 
+Charlotte,X.,F-5,Sydney,E,Late,24,Layover
+Omar,L.,F-5,Sydney,E,Late,24.5,Layover
+Hannah,M.,F-5,Sydney,E,Late,24.6, 
+Yousef,C.,F-5,Sydney,E,Late,22.2,Layover
+Violet,U.,F-5,Sydney,E,Late,24,Layover
+Naveen,B.,F-5,Sydney,E,Late,22,Layover
+Elena,R.,F-5,Sydney,E,Late,22.8, 
+Diego,J.,F-5,Sydney,E,Late,23, 
+Claire,S.,F-5,Sydney,E,Late,23.3,Layover
+Santiago,D.,F-5,Sydney,E,Late,24.7, 
+Lily,F.,F-5,Sydney,E,Late,22.9,Layover
+Mateo,N.,F-5,Sydney,E,Late,23.2,Layover
+Aria,T.,F-5,Sydney,E,Late,23.1,Layover
+Zane,O.,F-5,Sydney,E,Late,22.6,Layover
+Amina,I.,F-5,Sydney,E,Late,24.1,Layover
+Oliver,V.,F-5,Sydney,E,Late,23.6,Layover
+Anaya,P.,F-5,Sydney,E,Late,22.5, 
+Aidan,W.,F-5,Sydney,E,Late,22.3,Layover
+Selma,L.,F-5,Sydney,E,Late,22.3, 
+Julian,G.,F-5,Sydney,E,Late,22.6, 
+Keira,A.,F-5,Sydney,E,Late,22.3,Layover
+Rohan,K.,F-5,Sydney,E,Late,24.2,Layover
+Aurora,C.,F-5,Sydney,E,Late,22.2,Layover
+Nora,H.,F-5,Sydney,E,Late,22.1,Layover
+Kenji,Z.,F-5,Sydney,E,Late,23.5,Layover
+Madeline,E.,F-5,Sydney,E,Late,22.8,Layover
+Tariq,Y.,F-5,Sydney,E,Late,22.9, 
+Carlos,M.,F-5,Sydney,E,Late,24.8, 
+Isla,R.,F-5,Sydney,E,Late,23.3, 
+Sanjay,J.,F-5,Sydney,E,Late,22.9, 
+Maya,T.,F-5,Sydney,E,Late,22.3,Layover
+Leo,N.,F-5,Sydney,E,Late,22.4,Layover
+Ayesha,F.,F-5,Sydney,E,Late,22.5, 
+Felix,Q.,F-5,Sydney,E,Late,23.6, 
+Samira,X.,F-5,Sydney,E,Late,22.4, 
+Connor,I.,F-5,Sydney,E,Late,24,Layover
+Zara,O.,F-5,Sydney,E,Late,23.8,Layover
+Gavin,D.,F-5,Sydney,E,Late,23.1,Layover
+Indira,P.,F-5,Sydney,E,Late,22.5, 
+Zane,K.,F-5,Sydney,E,Late,24.6,Layover
+Harper,S.,F-5,Sydney,E,Late,23.6, 
+Anika,U.,F-5,Sydney,E,Late,23.1, 
+Maxwell,W.,F-5,Sydney,E,Late,23.8, 
+Riya,H.,F-5,Sydney,E,Late,24.5, 
+Elliot,V.,F-5,Sydney,E,Late,23.7, 
+Fatimah,L.,F-5,Sydney,E,Late,24.1, 
+Adrian,Y.,F-5,Sydney,E,Late,24.6, 
+Lydia,C.,F-5,Sydney,E,Late,22.2, 
+Malik,M.,F-5,Sydney,E,Late,23.4,Layover
+Scarlett,T.,F-5,Sydney,E,Late,23.4, 
+Imran,A.,F-5,Sydney,E,Late,24.2,Layover
+Ella,J.,F-5,Sydney,E,Late,24.6, 
+Rajesh,B.,F-5,Sydney,E,Late,23.2, 
+Victoria,G.,F-5,Sydney,E,Late,22.7, 
+Lorenzo,F.,F-5,Sydney,E,Late,23.7, 
+Mila,Z.,F-5,Sydney,E,Late,22.8, 
+Farah,O.,F-5,Sydney,E,Late,24,Layover
+Oscar,N.,F-5,Sydney,E,Late,24.8, 
+Leah,D.,F-5,Sydney,E,Late,23.2,Layover
+Jamal,K.,F-5,Sydney,E,Late,23.7, 
+Vivian,E.,F-5,Sydney,E,Late,22.9, 
+Diego,W.,F-5,Sydney,E,Late,22.6,Layover
+Fiona,Q.,F-5,Sydney,E,Late,24.9,Layover
+Amir,L.,F-5,Sydney,E,Late,22.2,Layover
+Rachel,H.,F-5,Sydney,E,Late,22.3, 
+Hassan,S.,F-5,Sydney,E,Late,22.6,Layover
+Eliza,M.,F-5,Sydney,E,Late,24.7, 
+Rafael,R.,F-5,Sydney,E,Late,22.3,Layover
+Zahara,B.,F-5,Sydney,E,Late,23.9,Layover
+Kai,Y.,F-5,Sydney,E,Late,23.5, 
+Nina,X.,F-5,Sydney,E,Late,24.3, 
+Khalid,C.,F-5,Sydney,E,Late,22.7, 
+Alyssa,P.,F-5,Sydney,E,Late,24.2, 
+Imani,O.,F-5,Sydney,E,Late,22.3,Layover
+Caleb,J.,F-5,Sydney,E,Late,23.9,Layover
+Layla,T.,F-5,Sydney,E,Late,23.1,Layover
+Rosa,V.,F-5,Sydney,E,Late,24.1, 
+Mohammed,F.,F-5,Sydney,E,Late,22.2, 
+Talia,I.,F-5,Sydney,E,Late,22.3,Layover
+Isaiah,W.,F-5,Sydney,E,Late,24.2, 
+Yara,L.,F-5,Sydney,E,Late,23.2, 
+Benito,K.,F-5,Sydney,E,Late,23.8,Layover
+Sonia,M.,F-5,Sydney,E,Late,22.4, 
+Luca,D.,F-5,Sydney,E,Late,24.9, 
+Marina,R.,F-5,Sydney,E,Late,23.8, 
+Ahmed,A.,F-5,Sydney,E,Late,23,Layover
+Helena,G.,F-5,Sydney,E,Late,22.9, 
+Farouk,S.,F-5,Sydney,E,Late,23.5, 
+Alice,Q.,F-5,Sydney,E,Late,23.9,Layover
+Nizar,Z.,F-5,Sydney,E,Late,22.6,Layover
+Adeline,J.,F-5,Sydney,E,Late,22.7,Layover
+Serena,H.,F-5,Sydney,E,Late,23.8, 
+Omar,U.,F-5,Sydney,E,Late,22.1, 
+Genevieve,C.,F-5,Sydney,E,Late,23.7,Layover
+Reza,E.,F-5,Sydney,E,Late,22.6,Layover
+Isabelle,M.,F-5,Sydney,E,Late,22.5, 
+Abdul,R.,F-5,Sydney,E,Late,22.3,Layover
+Ariana,T.,F-5,Sydney,E,Late,23.1,Layover
+Salim,O.,F-5,Sydney,E,Late,22.5, 
+Grace,L.,F-5,Sydney,E,Late,23.4,Layover
+Mina,K.,F-5,Sydney,E,Late,24.8,Layover
+Xander,W.,F-5,Sydney,E,Late,24.1,Layover
+Anwar,Y.,F-5,Sydney,E,Late,23,Layover
+Noelle,P.,F-5,Sydney,E,Late,22,Layover
+Jared,F.,F-5,Sydney,E,Late,22.1,Layover
+Aaliyah,N.,F-5,Sydney,E,Late,23.8,Layover
+Rina,V.,F-5,Sydney,E,Late,23.2, 
+Hugo,D.,F-5,Sydney,E,Late,24.5,Layover
+Fatima,Z.,F-5,Sydney,E,Late,24.5,Layover
+Sofia,I.,F-5,Sydney,E,Late,22.8, 
+Arjun,G.,F-5,Sydney,E,Late,23.5, 
+Laila,X.,F-5,Sydney,E,Late,22.4, 
+Dario,S.,F-5,Sydney,E,Late,23.8, 
+Kiana,L.,F-5,Sydney,E,Late,22.9,Layover
+Elian,Q.,F-5,Sydney,E,Late,24.6, 
+Neha,M.,F-5,Sydney,E,Late,22.1, 
+Bruno,J.,F-5,Sydney,E,Late,23.1, 
+Dahlia,T.,F-5,Sydney,E,Late,24.5, 
+Mustafa,H.,F-5,Sydney,E,Late,24.1,Layover
+Rami,B.,F-5,Sydney,E,Late,23.2, 
+Yasmin,W.,F-5,Sydney,E,Late,23.9, 
+Malik,C.,F-5,Sydney,E,Late,24.7, 
+Anisa,U.,F-5,Sydney,E,Late,22.2, 
+Giselle,A.,F-5,Sydney,E,Late,24.7, 
+Samson,E.,F-5,Sydney,E,Late,24.2,Layover
+Malia,Y.,F-5,Sydney,E,Late,23.3,Layover
+Jasper,I.,F-5,Sydney,E,Late,22.2, 
+Khadija,Z.,F-5,Sydney,E,Late,22.7,Layover
+Leon,B.,F-5,Sydney,E,Late,23.5, 
+Mariam,R.,F-5,Sydney,E,Late,22.9,Layover
+Youssef,T.,F-5,Sydney,E,Late,22.3, 
+Lila,G.,F-5,Sydney,E,Late,24.2,Layover
+Elias,O.,F-5,Sydney,E,Late,22.8,Layover
+Raina,P.,F-5,Sydney,E,Late,23.6,Layover
+Zayd,K.,F-5,Sydney,E,Late,23.5,Layover
+Elena,F.,F-5,Sydney,E,Late,23.8,Layover
+Daniyal,M.,F-5,Sydney,E,Late,24.2,Layover
+Leilani,C.,F-5,Sydney,E,Late,22.3,Layover
+Omar,W.,F-5,Sydney,E,Late,23.8, 
+Akira,N.,F-5,Sydney,E,Late,24.1,Layover
+Jin,Y.,F-5,Sydney,E,Late,22.2, 
+Tenzin,S.,F-5,Sydney,E,Late,22.8, 
+Ling,M.,F-5,Sydney,E,Late,23.4, 
+Kazuo,T.,F-5,Sydney,E,Late,22.7, 
+Aiko,H.,F-5,Sydney,E,Late,23.4,Layover
+Ren,X.,F-5,Sydney,E,Late,23.9, 
+Yumi,K.,F-5,Sydney,E,Late,22.6, 
+Ryota,Z.,F-5,Sydney,E,Late,24.2, 
+Mika,I.,F-5,Sydney,E,Late,23.2,Layover
+Suki,V.,F-5,Sydney,E,Late,23.9, 
+Ayumi,L.,F-5,Sydney,B,Late,24,Layover
+Jiro,E.,F-5,Sydney,B,Late,22.3, 
+Sana,W.,F-5,Sydney,B,Late,23.1, 
+Haruto,B.,F-5,Sydney,B,Late,22.8,Layover
+Keiko,A.,F-5,Sydney,B,Late,23.2,Layover
+Minori,G.,F-5,Sydney,B,Late,24.2, 
+Ryuu,Q.,F-5,Sydney,B,Late,24.6,Layover
+Sakura,N.,F-5,Sydney,B,Late,22.3,Layover
+Eiji,C.,F-5,Sydney,B,Late,24.9, 
+Yuna,R.,F-5,Sydney,B,Late,22.5, 
+Ming,Z.,F-5,Sydney,B,Late,22.4,Layover
+Hana,K.,F-5,Sydney,B,Late,24.4, 
+Yuto,T.,F-5,Sydney,B,Late,24.4, 
+Nao,Y.,F-5,Sydney,B,Late,23.8, 
+Kaito,S.,F-5,Sydney,B,Late,22.2, 
+Sayuri,M.,F-5,Sydney,B,Late,23.9,Layover
+Jiro,U.,F-5,Sydney,B,Late,23.4, 
